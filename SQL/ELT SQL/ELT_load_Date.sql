@@ -1,0 +1,7 @@
+INSERT INTO DimDate (Year) values ('2018')
+INSERT INTO DimDate (Year) values ('2019')
+INSERT INTO DimDate (Year) values ('2020')
+INSERT INTO DimDate (Year) values ('2021')
+INSERT INTO DimDate (Year) values ('2022')
+INSERT INTO DimDate (Year) values ('2023')
+INSERT INTO DimDate (Year) values ('2024')
