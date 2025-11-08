@@ -1,0 +1,1793 @@
+student_PESEL,matura_id,subject,level,year,classroom,classroom_capacity,teacher_PESEL,subject_teacher,isRetaken,anulled
+1199029793,78,Mathematics,basic,2025,Room_15,small,7627861561,Biology,0,NotAnulled
+1199029793,79,Polish,basic,2025,Room_21,big,58175080694,History,0,NotAnulled
+1199029793,80,English,basic,2025,Room_17,big,81165531253,Geography,0,NotAnulled
+1199029793,85,Geography,extended,2025,Room_1,big,15631219101,English,0,NotAnulled
+1199029793,83,Biology,extended,2025,Room_15,small,50945643201,Physics,0,NotAnulled
+1199029793,88,English,extended,2025,Room_1,big,81165531253,Geography,0,NotAnulled
+31124142698,78,Mathematics,basic,2025,Room_4,big,24935803837,Geography,0,NotAnulled
+31124142698,79,Polish,basic,2025,Room_3,big,99010112345,Physical Education,0,NotAnulled
+31124142698,80,English,basic,2025,Room_13,big,51973405392,Physics,0,NotAnulled
+31124142698,88,English,extended,2025,Room_19,small,50945643201,Physics,0,NotAnulled
+55856382881,78,Mathematics,basic,2025,Room_20,small,51937947921,Polish,0,NotAnulled
+55856382881,79,Polish,basic,2025,Room_17,big,97238058536,Chemistry,0,NotAnulled
+55856382881,80,English,basic,2025,Room_9,small,19150622889,History,0,NotAnulled
+55856382881,88,English,extended,2025,Room_12,big,15187984005,Biology,0,NotAnulled
+55856382881,83,Biology,extended,2025,Room_12,big,81359177700,Geography,0,NotAnulled
+55856382881,85,Geography,extended,2025,Room_5,big,51973405392,Physics,0,NotAnulled
+72020616040,78,Mathematics,basic,2025,Room_9,small,24935803837,Geography,0,NotAnulled
+72020616040,79,Polish,basic,2025,Room_13,big,24935803837,Geography,0,NotAnulled
+72020616040,80,English,basic,2025,Room_4,big,15187984005,Biology,0,NotAnulled
+72020616040,86,Mathematics,extended,2025,Room_19,small,51937947921,Polish,0,NotAnulled
+97916739628,78,Mathematics,basic,2025,Room_12,big,51973405392,Physics,0,NotAnulled
+97916739628,79,Polish,basic,2025,Room_20,small,8717912686,Biology,0,NotAnulled
+97916739628,80,English,basic,2025,Room_11,small,95635941509,Geography,0,NotAnulled
+97916739628,82,History,extended,2025,Room_20,small,7627861561,Biology,0,NotAnulled
+9622923602,78,Mathematics,basic,2025,Room_16,small,50945643201,Physics,0,NotAnulled
+9622923602,79,Polish,basic,2025,Room_8,small,19150622889,History,0,NotAnulled
+9622923602,80,English,basic,2025,Room_8,small,15187984005,Biology,0,NotAnulled
+9622923602,84,Chemistry,extended,2025,Room_21,big,51973405392,Physics,0,NotAnulled
+9622923602,83,Biology,extended,2025,Room_12,big,90391127449,Chemistry,0,NotAnulled
+9622923602,81,Physics,extended,2025,Room_21,big,15187984005,Biology,0,NotAnulled
+9622923602,88,English,extended,2025,Room_5,big,26437583152,Polish,0,NotAnulled
+9622923602,86,Mathematics,extended,2025,Room_6,small,51973405392,Physics,0,NotAnulled
+9622923602,87,Polish,extended,2025,Room_9,small,81165531253,Geography,0,NotAnulled
+58977573003,78,Mathematics,basic,2025,Room_2,big,23041778753,Physics,0,NotAnulled
+58977573003,79,Polish,basic,2025,Room_12,big,23041778753,Physics,0,NotAnulled
+58977573003,80,English,basic,2025,Room_19,small,51973405392,Physics,0,NotAnulled
+58977573003,86,Mathematics,extended,2025,Room_2,big,15187984005,Biology,0,NotAnulled
+58977573003,81,Physics,extended,2025,Room_11,small,36952721923,Polish,0,NotAnulled
+58977573003,87,Polish,extended,2025,Room_21,big,90391127449,Chemistry,0,NotAnulled
+31335181282,78,Mathematics,basic,2025,Room_20,small,24935803837,Geography,0,NotAnulled
+31335181282,79,Polish,basic,2025,Room_3,big,90391127449,Chemistry,0,NotAnulled
+31335181282,80,English,basic,2025,Room_8,small,7627861561,Biology,0,NotAnulled
+31335181282,88,English,extended,2025,Room_1,big,18138552030,Polish,0,NotAnulled
+31335181282,83,Biology,extended,2025,Room_21,big,26437583152,Polish,0,NotAnulled
+31335181282,85,Geography,extended,2025,Room_19,small,36952721923,Polish,0,NotAnulled
+31335181282,87,Polish,extended,2025,Room_15,small,15187984005,Biology,0,NotAnulled
+92254965290,78,Mathematics,basic,2025,Room_20,small,81359177700,Geography,0,NotAnulled
+92254965290,79,Polish,basic,2025,Room_19,small,51973405392,Physics,0,NotAnulled
+92254965290,80,English,basic,2025,Room_18,small,52894468092,Geography,0,NotAnulled
+92254965290,87,Polish,extended,2025,Room_2,big,97238058536,Chemistry,0,NotAnulled
+80994158750,78,Mathematics,basic,2025,Room_18,small,19150622889,History,0,NotAnulled
+80994158750,79,Polish,basic,2025,Room_9,small,67239597077,Physics,0,NotAnulled
+80994158750,80,English,basic,2025,Room_1,big,76846326096,Geography,0,NotAnulled
+80994158750,83,Biology,extended,2025,Room_21,big,52894468092,Geography,0,NotAnulled
+80994158750,88,English,extended,2025,Room_4,big,60831350511,Biology,0,NotAnulled
+80994158750,87,Polish,extended,2025,Room_7,small,88515543667,Mathematics,0,NotAnulled
+80994158750,86,Mathematics,extended,2025,Room_1,big,76846326096,Geography,0,NotAnulled
+80994158750,85,Geography,extended,2025,Room_3,big,50945643201,Physics,0,NotAnulled
+80994158750,81,Physics,extended,2025,Room_2,big,52894468092,Geography,0,NotAnulled
+62083068492,78,Mathematics,basic,2025,Room_5,big,90391127449,Chemistry,0,NotAnulled
+62083068492,79,Polish,basic,2025,Room_16,small,23041778753,Physics,0,NotAnulled
+62083068492,80,English,basic,2025,Room_16,small,73128415155,Chemistry,0,NotAnulled
+62083068492,82,History,extended,2025,Room_12,big,36952721923,Polish,0,NotAnulled
+62083068492,81,Physics,extended,2025,Room_12,big,60831350511,Biology,0,NotAnulled
+62083068492,84,Chemistry,extended,2025,Room_13,big,41025702129,English,0,NotAnulled
+62083068492,85,Geography,extended,2025,Room_14,small,51937947921,Polish,0,NotAnulled
+62083068492,83,Biology,extended,2025,Room_16,small,97238058536,Chemistry,0,NotAnulled
+62083068492,86,Mathematics,extended,2025,Room_17,big,15187984005,Biology,0,NotAnulled
+23215846043,78,Mathematics,basic,2025,Room_16,small,26437583152,Polish,0,NotAnulled
+23215846043,79,Polish,basic,2025,Room_17,big,58175080694,History,0,NotAnulled
+23215846043,80,English,basic,2025,Room_1,big,88515543667,Mathematics,0,NotAnulled
+23215846043,86,Mathematics,extended,2025,Room_2,big,19150622889,History,0,NotAnulled
+23215846043,83,Biology,extended,2025,Room_15,small,76846326096,Geography,0,NotAnulled
+23215846043,81,Physics,extended,2025,Room_1,big,41025702129,English,0,NotAnulled
+23215846043,82,History,extended,2025,Room_12,big,7627861561,Biology,0,NotAnulled
+23215846043,87,Polish,extended,2025,Room_19,small,76846326096,Geography,0,NotAnulled
+96483415733,78,Mathematics,basic,2025,Room_1,big,15187984005,Biology,0,NotAnulled
+96483415733,79,Polish,basic,2025,Room_3,big,19150622889,History,0,NotAnulled
+96483415733,80,English,basic,2025,Room_16,small,81359177700,Geography,0,NotAnulled
+96483415733,82,History,extended,2025,Room_17,big,88515543667,Mathematics,0,NotAnulled
+96483415733,83,Biology,extended,2025,Room_10,small,41025702129,English,0,NotAnulled
+96483415733,87,Polish,extended,2025,Room_17,big,23041778753,Physics,0,NotAnulled
+96483415733,85,Geography,extended,2025,Room_14,small,88515543667,Mathematics,0,NotAnulled
+96483415733,81,Physics,extended,2025,Room_3,big,26437583152,Polish,0,NotAnulled
+51843255700,78,Mathematics,basic,2025,Room_21,big,73128415155,Chemistry,0,NotAnulled
+51843255700,79,Polish,basic,2025,Room_5,big,24935803837,Geography,0,NotAnulled
+51843255700,80,English,basic,2025,Room_17,big,24935803837,Geography,0,NotAnulled
+51843255700,86,Mathematics,extended,2025,Room_16,small,60831350511,Biology,0,NotAnulled
+51843255700,83,Biology,extended,2025,Room_17,big,58175080694,History,0,NotAnulled
+51843255700,88,English,extended,2025,Room_17,big,18138552030,Polish,0,NotAnulled
+51843255700,85,Geography,extended,2025,Room_7,small,51973405392,Physics,0,NotAnulled
+51843255700,87,Polish,extended,2025,Room_2,big,90391127449,Chemistry,0,NotAnulled
+38795211985,78,Mathematics,basic,2025,Room_2,big,73128415155,Chemistry,0,NotAnulled
+38795211985,79,Polish,basic,2025,Room_10,small,76846326096,Geography,0,NotAnulled
+38795211985,80,English,basic,2025,Room_11,small,81359177700,Geography,0,NotAnulled
+38795211985,82,History,extended,2025,Room_10,small,51937947921,Polish,0,NotAnulled
+38795211985,88,English,extended,2025,Room_4,big,51937947921,Polish,0,NotAnulled
+85667827828,78,Mathematics,basic,2025,Room_9,small,58175080694,History,0,NotAnulled
+85667827828,79,Polish,basic,2025,Room_10,small,8717912686,Biology,0,NotAnulled
+85667827828,80,English,basic,2025,Room_9,small,50945643201,Physics,0,NotAnulled
+85667827828,86,Mathematics,extended,2025,Room_12,big,67239597077,Physics,0,NotAnulled
+85667827828,85,Geography,extended,2025,Room_21,big,23041778753,Physics,0,NotAnulled
+85667827828,88,English,extended,2025,Room_17,big,51937947921,Polish,0,NotAnulled
+85667827828,82,History,extended,2025,Room_14,small,24935803837,Geography,0,NotAnulled
+85667827828,87,Polish,extended,2025,Room_2,big,15187984005,Biology,0,NotAnulled
+93577423927,78,Mathematics,basic,2025,Room_9,small,95635941509,Geography,0,NotAnulled
+93577423927,79,Polish,basic,2025,Room_13,big,73128415155,Chemistry,0,NotAnulled
+93577423927,80,English,basic,2025,Room_5,big,51973405392,Physics,0,NotAnulled
+93577423927,86,Mathematics,extended,2025,Room_6,small,18138552030,Polish,0,NotAnulled
+68954891075,78,Mathematics,basic,2025,Room_2,big,90391127449,Chemistry,0,NotAnulled
+68954891075,79,Polish,basic,2025,Room_21,big,50945643201,Physics,0,NotAnulled
+68954891075,80,English,basic,2025,Room_13,big,97238058536,Chemistry,0,NotAnulled
+68954891075,88,English,extended,2025,Room_2,big,24935803837,Geography,0,NotAnulled
+68954891075,83,Biology,extended,2025,Room_8,small,99010112345,Physical Education,0,NotAnulled
+68954891075,86,Mathematics,extended,2025,Room_11,small,51973405392,Physics,0,NotAnulled
+68954891075,84,Chemistry,extended,2025,Room_2,big,81359177700,Geography,0,NotAnulled
+68954891075,81,Physics,extended,2025,Room_20,small,73128415155,Chemistry,0,NotAnulled
+68954891075,87,Polish,extended,2025,Room_11,small,88515543667,Mathematics,0,NotAnulled
+8108803385,78,Mathematics,basic,2025,Room_10,small,51973405392,Physics,0,NotAnulled
+8108803385,79,Polish,basic,2025,Room_5,big,24935803837,Geography,0,NotAnulled
+8108803385,80,English,basic,2025,Room_13,big,19150622889,History,0,NotAnulled
+8108803385,87,Polish,extended,2025,Room_17,big,15631219101,English,0,NotAnulled
+8108803385,83,Biology,extended,2025,Room_12,big,26437583152,Polish,0,NotAnulled
+8108803385,82,History,extended,2025,Room_15,small,41025702129,English,0,NotAnulled
+8108803385,85,Geography,extended,2025,Room_2,big,19150622889,History,0,NotAnulled
+6954125223,78,Mathematics,basic,2025,Room_12,big,81165531253,Geography,0,NotAnulled
+6954125223,79,Polish,basic,2025,Room_20,small,15631219101,English,0,NotAnulled
+6954125223,80,English,basic,2025,Room_12,big,24935803837,Geography,0,NotAnulled
+6954125223,81,Physics,extended,2025,Room_3,big,24935803837,Geography,0,NotAnulled
+6954125223,85,Geography,extended,2025,Room_16,small,15187984005,Biology,0,NotAnulled
+6954125223,87,Polish,extended,2025,Room_13,big,81165531253,Geography,0,NotAnulled
+6954125223,82,History,extended,2025,Room_10,small,8717912686,Biology,0,NotAnulled
+96889267234,78,Mathematics,basic,2025,Room_13,big,81165531253,Geography,0,NotAnulled
+96889267234,79,Polish,basic,2025,Room_11,small,8717912686,Biology,0,NotAnulled
+96889267234,80,English,basic,2025,Room_13,big,52894468092,Geography,0,NotAnulled
+96889267234,85,Geography,extended,2025,Room_13,big,60831350511,Biology,0,NotAnulled
+96889267234,81,Physics,extended,2025,Room_19,small,60831350511,Biology,0,NotAnulled
+18059103086,78,Mathematics,basic,2025,Room_6,small,15187984005,Biology,0,NotAnulled
+18059103086,79,Polish,basic,2025,Room_6,small,88515543667,Mathematics,0,NotAnulled
+18059103086,80,English,basic,2025,Room_19,small,58175080694,History,0,NotAnulled
+18059103086,88,English,extended,2025,Room_11,small,76846326096,Geography,0,NotAnulled
+18059103086,82,History,extended,2025,Room_12,big,18138552030,Polish,0,NotAnulled
+86387072431,78,Mathematics,basic,2025,Room_14,small,58175080694,History,0,NotAnulled
+86387072431,79,Polish,basic,2025,Room_2,big,73128415155,Chemistry,0,NotAnulled
+86387072431,80,English,basic,2025,Room_5,big,90391127449,Chemistry,0,NotAnulled
+86387072431,84,Chemistry,extended,2025,Room_1,big,8717912686,Biology,0,NotAnulled
+86387072431,81,Physics,extended,2025,Room_3,big,95635941509,Geography,0,NotAnulled
+86387072431,86,Mathematics,extended,2025,Room_12,big,15187984005,Biology,0,NotAnulled
+86387072431,88,English,extended,2025,Room_8,small,24935803837,Geography,0,NotAnulled
+98608599661,78,Mathematics,basic,2025,Room_12,big,95635941509,Geography,0,NotAnulled
+98608599661,79,Polish,basic,2025,Room_5,big,99010112345,Physical Education,0,NotAnulled
+98608599661,80,English,basic,2025,Room_5,big,19150622889,History,0,NotAnulled
+98608599661,84,Chemistry,extended,2025,Room_12,big,95635941509,Geography,0,NotAnulled
+98608599661,82,History,extended,2025,Room_7,small,24935803837,Geography,0,NotAnulled
+43917918478,78,Mathematics,basic,2025,Room_13,big,67239597077,Physics,0,NotAnulled
+43917918478,79,Polish,basic,2025,Room_8,small,19150622889,History,0,NotAnulled
+43917918478,80,English,basic,2025,Room_3,big,51937947921,Polish,0,NotAnulled
+43917918478,84,Chemistry,extended,2025,Room_17,big,52894468092,Geography,0,NotAnulled
+43917918478,87,Polish,extended,2025,Room_7,small,52894468092,Geography,0,NotAnulled
+43917918478,85,Geography,extended,2025,Room_20,small,97238058536,Chemistry,0,NotAnulled
+43917918478,88,English,extended,2025,Room_19,small,7627861561,Biology,0,NotAnulled
+43917918478,86,Mathematics,extended,2025,Room_2,big,90391127449,Chemistry,0,NotAnulled
+43917918478,81,Physics,extended,2025,Room_6,small,24935803837,Geography,0,NotAnulled
+58756126451,78,Mathematics,basic,2025,Room_5,big,52894468092,Geography,0,NotAnulled
+58756126451,79,Polish,basic,2025,Room_17,big,15187984005,Biology,0,NotAnulled
+58756126451,80,English,basic,2025,Room_18,small,99010112345,Physical Education,0,NotAnulled
+58756126451,86,Mathematics,extended,2025,Room_19,small,23041778753,Physics,0,NotAnulled
+58756126451,81,Physics,extended,2025,Room_15,small,8717912686,Biology,0,NotAnulled
+58756126451,83,Biology,extended,2025,Room_6,small,95635941509,Geography,0,NotAnulled
+58756126451,87,Polish,extended,2025,Room_17,big,19150622889,History,0,NotAnulled
+58756126451,84,Chemistry,extended,2025,Room_5,big,15187984005,Biology,0,NotAnulled
+61612279028,78,Mathematics,basic,2025,Room_19,small,41025702129,English,0,NotAnulled
+61612279028,79,Polish,basic,2025,Room_6,small,58175080694,History,0,NotAnulled
+61612279028,80,English,basic,2025,Room_18,small,73128415155,Chemistry,0,NotAnulled
+61612279028,88,English,extended,2025,Room_3,big,7627861561,Biology,0,NotAnulled
+61612279028,82,History,extended,2025,Room_4,big,50945643201,Physics,0,NotAnulled
+61612279028,86,Mathematics,extended,2025,Room_4,big,90391127449,Chemistry,0,NotAnulled
+64951542449,78,Mathematics,basic,2025,Room_14,small,8717912686,Biology,0,NotAnulled
+64951542449,79,Polish,basic,2025,Room_18,small,73128415155,Chemistry,0,NotAnulled
+64951542449,80,English,basic,2025,Room_12,big,15187984005,Biology,0,NotAnulled
+64951542449,82,History,extended,2025,Room_21,big,36952721923,Polish,0,NotAnulled
+64951542449,84,Chemistry,extended,2025,Room_9,small,50945643201,Physics,0,NotAnulled
+64951542449,81,Physics,extended,2025,Room_17,big,75425501819,Polish,0,NotAnulled
+64951542449,87,Polish,extended,2025,Room_20,small,90391127449,Chemistry,0,NotAnulled
+64951542449,86,Mathematics,extended,2025,Room_3,big,36952721923,Polish,0,NotAnulled
+61384807988,78,Mathematics,basic,2025,Room_1,big,19150622889,History,0,NotAnulled
+61384807988,79,Polish,basic,2025,Room_3,big,81165531253,Geography,0,NotAnulled
+61384807988,80,English,basic,2025,Room_11,small,76846326096,Geography,0,NotAnulled
+61384807988,82,History,extended,2025,Room_8,small,7627861561,Biology,0,NotAnulled
+98549593651,78,Mathematics,basic,2025,Room_4,big,7627861561,Biology,0,NotAnulled
+98549593651,79,Polish,basic,2025,Room_8,small,81165531253,Geography,0,NotAnulled
+98549593651,80,English,basic,2025,Room_9,small,23041778753,Physics,0,NotAnulled
+98549593651,83,Biology,extended,2025,Room_20,small,88515543667,Mathematics,0,NotAnulled
+98549593651,88,English,extended,2025,Room_10,small,97238058536,Chemistry,0,NotAnulled
+98549593651,82,History,extended,2025,Room_3,big,52894468092,Geography,0,NotAnulled
+26051672159,78,Mathematics,basic,2025,Room_1,big,58175080694,History,0,NotAnulled
+26051672159,79,Polish,basic,2025,Room_18,small,15187984005,Biology,0,NotAnulled
+26051672159,80,English,basic,2025,Room_17,big,75425501819,Polish,0,NotAnulled
+26051672159,81,Physics,extended,2025,Room_13,big,81359177700,Geography,0,NotAnulled
+26051672159,82,History,extended,2025,Room_6,small,76846326096,Geography,0,NotAnulled
+26051672159,85,Geography,extended,2025,Room_21,big,97238058536,Chemistry,0,NotAnulled
+51883936813,78,Mathematics,basic,2025,Room_2,big,58175080694,History,0,NotAnulled
+51883936813,79,Polish,basic,2025,Room_15,small,15187984005,Biology,0,NotAnulled
+51883936813,80,English,basic,2025,Room_17,big,36952721923,Polish,0,NotAnulled
+51883936813,81,Physics,extended,2025,Room_17,big,36952721923,Polish,0,NotAnulled
+51883936813,88,English,extended,2025,Room_4,big,26437583152,Polish,0,NotAnulled
+51883936813,87,Polish,extended,2025,Room_21,big,8717912686,Biology,0,NotAnulled
+51883936813,86,Mathematics,extended,2025,Room_8,small,90391127449,Chemistry,0,NotAnulled
+51883936813,84,Chemistry,extended,2025,Room_12,big,51937947921,Polish,0,NotAnulled
+12698615978,78,Mathematics,basic,2025,Room_7,small,8717912686,Biology,0,NotAnulled
+12698615978,79,Polish,basic,2025,Room_10,small,15631219101,English,0,NotAnulled
+12698615978,80,English,basic,2025,Room_8,small,95635941509,Geography,0,NotAnulled
+12698615978,84,Chemistry,extended,2025,Room_3,big,7627861561,Biology,0,NotAnulled
+12698615978,86,Mathematics,extended,2025,Room_17,big,23041778753,Physics,0,NotAnulled
+12698615978,85,Geography,extended,2025,Room_11,small,26437583152,Polish,0,NotAnulled
+12698615978,87,Polish,extended,2025,Room_5,big,15631219101,English,0,NotAnulled
+12698615978,88,English,extended,2025,Room_4,big,24935803837,Geography,0,NotAnulled
+20173814076,78,Mathematics,basic,2025,Room_1,big,97238058536,Chemistry,0,NotAnulled
+20173814076,79,Polish,basic,2025,Room_18,small,97238058536,Chemistry,0,NotAnulled
+20173814076,80,English,basic,2025,Room_15,small,15187984005,Biology,0,NotAnulled
+20173814076,86,Mathematics,extended,2025,Room_8,small,41025702129,English,0,NotAnulled
+20173814076,81,Physics,extended,2025,Room_16,small,88515543667,Mathematics,0,NotAnulled
+20173814076,82,History,extended,2025,Room_2,big,18138552030,Polish,0,NotAnulled
+2694130765,78,Mathematics,basic,2025,Room_2,big,26437583152,Polish,0,NotAnulled
+2694130765,79,Polish,basic,2025,Room_20,small,15187984005,Biology,0,NotAnulled
+2694130765,80,English,basic,2025,Room_1,big,99010112345,Physical Education,0,NotAnulled
+2694130765,82,History,extended,2025,Room_15,small,36952721923,Polish,0,NotAnulled
+64991562663,78,Mathematics,basic,2025,Room_5,big,60831350511,Biology,0,NotAnulled
+64991562663,79,Polish,basic,2025,Room_6,small,67239597077,Physics,0,NotAnulled
+64991562663,80,English,basic,2025,Room_7,small,23041778753,Physics,0,NotAnulled
+64991562663,88,English,extended,2025,Room_1,big,81165531253,Geography,0,NotAnulled
+64991562663,82,History,extended,2025,Room_12,big,24935803837,Geography,0,NotAnulled
+64991562663,87,Polish,extended,2025,Room_17,big,51973405392,Physics,0,NotAnulled
+2768898601,78,Mathematics,basic,2025,Room_21,big,15631219101,English,0,NotAnulled
+2768898601,79,Polish,basic,2025,Room_4,big,97238058536,Chemistry,0,NotAnulled
+2768898601,80,English,basic,2025,Room_3,big,51973405392,Physics,0,NotAnulled
+2768898601,81,Physics,extended,2025,Room_11,small,15187984005,Biology,0,NotAnulled
+2768898601,84,Chemistry,extended,2025,Room_3,big,26437583152,Polish,0,NotAnulled
+72788737977,78,Mathematics,basic,2025,Room_18,small,7627861561,Biology,0,NotAnulled
+72788737977,79,Polish,basic,2025,Room_12,big,95635941509,Geography,0,NotAnulled
+72788737977,80,English,basic,2025,Room_17,big,81359177700,Geography,0,NotAnulled
+72788737977,85,Geography,extended,2025,Room_5,big,60831350511,Biology,0,NotAnulled
+72788737977,88,English,extended,2025,Room_5,big,75425501819,Polish,0,NotAnulled
+87371628414,78,Mathematics,basic,2025,Room_1,big,41025702129,English,0,NotAnulled
+87371628414,79,Polish,basic,2025,Room_3,big,97238058536,Chemistry,0,NotAnulled
+87371628414,80,English,basic,2025,Room_4,big,90391127449,Chemistry,0,NotAnulled
+87371628414,82,History,extended,2025,Room_18,small,7627861561,Biology,0,NotAnulled
+87371628414,84,Chemistry,extended,2025,Room_17,big,88515543667,Mathematics,0,NotAnulled
+87371628414,87,Polish,extended,2025,Room_18,small,58175080694,History,0,NotAnulled
+92742763222,78,Mathematics,basic,2025,Room_11,small,81359177700,Geography,0,NotAnulled
+92742763222,79,Polish,basic,2025,Room_3,big,95635941509,Geography,0,NotAnulled
+92742763222,80,English,basic,2025,Room_17,big,50945643201,Physics,0,NotAnulled
+92742763222,84,Chemistry,extended,2025,Room_7,small,15187984005,Biology,0,NotAnulled
+92742763222,83,Biology,extended,2025,Room_16,small,24935803837,Geography,0,NotAnulled
+92742763222,82,History,extended,2025,Room_18,small,23041778753,Physics,0,NotAnulled
+62041903414,78,Mathematics,basic,2025,Room_6,small,23041778753,Physics,0,NotAnulled
+62041903414,79,Polish,basic,2025,Room_1,big,81165531253,Geography,0,NotAnulled
+62041903414,80,English,basic,2025,Room_13,big,58175080694,History,0,NotAnulled
+62041903414,84,Chemistry,extended,2025,Room_17,big,75425501819,Polish,0,NotAnulled
+62041903414,83,Biology,extended,2025,Room_7,small,88515543667,Mathematics,0,NotAnulled
+62041903414,81,Physics,extended,2025,Room_6,small,60831350511,Biology,0,NotAnulled
+62041903414,82,History,extended,2025,Room_17,big,95635941509,Geography,0,NotAnulled
+42044930633,78,Mathematics,basic,2025,Room_4,big,97238058536,Chemistry,0,NotAnulled
+42044930633,79,Polish,basic,2025,Room_8,small,50945643201,Physics,0,NotAnulled
+42044930633,80,English,basic,2025,Room_14,small,7627861561,Biology,0,NotAnulled
+42044930633,85,Geography,extended,2025,Room_15,small,58175080694,History,0,NotAnulled
+42044930633,88,English,extended,2025,Room_3,big,18138552030,Polish,0,NotAnulled
+42044930633,86,Mathematics,extended,2025,Room_19,small,97238058536,Chemistry,0,NotAnulled
+49324448599,78,Mathematics,basic,2025,Room_1,big,15187984005,Biology,0,NotAnulled
+49324448599,79,Polish,basic,2025,Room_13,big,24935803837,Geography,0,NotAnulled
+49324448599,80,English,basic,2025,Room_15,small,19150622889,History,0,NotAnulled
+49324448599,85,Geography,extended,2025,Room_11,small,8717912686,Biology,0,NotAnulled
+49324448599,88,English,extended,2025,Room_11,small,75425501819,Polish,0,NotAnulled
+49324448599,86,Mathematics,extended,2025,Room_5,big,41025702129,English,0,NotAnulled
+17383102478,78,Mathematics,basic,2025,Room_15,small,95635941509,Geography,0,NotAnulled
+17383102478,79,Polish,basic,2025,Room_16,small,24935803837,Geography,0,NotAnulled
+17383102478,80,English,basic,2025,Room_15,small,7627861561,Biology,0,NotAnulled
+17383102478,87,Polish,extended,2025,Room_20,small,7627861561,Biology,0,NotAnulled
+82318902566,78,Mathematics,basic,2025,Room_20,small,23041778753,Physics,0,NotAnulled
+82318902566,79,Polish,basic,2025,Room_12,big,95635941509,Geography,0,NotAnulled
+82318902566,80,English,basic,2025,Room_21,big,81165531253,Geography,0,NotAnulled
+82318902566,88,English,extended,2025,Room_17,big,36952721923,Polish,0,NotAnulled
+82318902566,86,Mathematics,extended,2025,Room_9,small,67239597077,Physics,0,NotAnulled
+82318902566,87,Polish,extended,2025,Room_20,small,90391127449,Chemistry,0,NotAnulled
+82318902566,84,Chemistry,extended,2025,Room_8,small,95635941509,Geography,0,NotAnulled
+22699961235,78,Mathematics,basic,2025,Room_4,big,67239597077,Physics,0,NotAnulled
+22699961235,79,Polish,basic,2025,Room_16,small,73128415155,Chemistry,0,NotAnulled
+22699961235,80,English,basic,2025,Room_10,small,81359177700,Geography,0,NotAnulled
+22699961235,87,Polish,extended,2025,Room_7,small,15187984005,Biology,0,NotAnulled
+22699961235,81,Physics,extended,2025,Room_7,small,76846326096,Geography,0,NotAnulled
+22699961235,83,Biology,extended,2025,Room_16,small,41025702129,English,0,NotAnulled
+22699961235,86,Mathematics,extended,2025,Room_21,big,75425501819,Polish,0,NotAnulled
+22134048679,78,Mathematics,basic,2025,Room_3,big,36952721923,Polish,0,NotAnulled
+22134048679,79,Polish,basic,2025,Room_11,small,99010112345,Physical Education,0,NotAnulled
+22134048679,80,English,basic,2025,Room_5,big,58175080694,History,0,NotAnulled
+22134048679,87,Polish,extended,2025,Room_2,big,15631219101,English,0,NotAnulled
+22134048679,83,Biology,extended,2025,Room_19,small,36952721923,Polish,0,NotAnulled
+22134048679,84,Chemistry,extended,2025,Room_5,big,15631219101,English,0,NotAnulled
+22134048679,81,Physics,extended,2025,Room_11,small,95635941509,Geography,0,NotAnulled
+78669308959,78,Mathematics,basic,2025,Room_11,small,36952721923,Polish,0,NotAnulled
+78669308959,79,Polish,basic,2025,Room_15,small,95635941509,Geography,0,NotAnulled
+78669308959,80,English,basic,2025,Room_5,big,97238058536,Chemistry,0,NotAnulled
+78669308959,84,Chemistry,extended,2025,Room_6,small,99010112345,Physical Education,0,NotAnulled
+78669308959,81,Physics,extended,2025,Room_7,small,99010112345,Physical Education,0,NotAnulled
+78669308959,82,History,extended,2025,Room_21,big,73128415155,Chemistry,0,NotAnulled
+78669308959,86,Mathematics,extended,2025,Room_13,big,60831350511,Biology,0,NotAnulled
+78669308959,83,Biology,extended,2025,Room_2,big,18138552030,Polish,0,NotAnulled
+26562210584,78,Mathematics,basic,2025,Room_11,small,52894468092,Geography,0,NotAnulled
+26562210584,79,Polish,basic,2025,Room_4,big,95635941509,Geography,0,NotAnulled
+26562210584,80,English,basic,2025,Room_17,big,36952721923,Polish,0,NotAnulled
+26562210584,87,Polish,extended,2025,Room_7,small,60831350511,Biology,0,NotAnulled
+26562210584,84,Chemistry,extended,2025,Room_21,big,15631219101,English,0,NotAnulled
+26562210584,85,Geography,extended,2025,Room_15,small,60831350511,Biology,0,NotAnulled
+26562210584,86,Mathematics,extended,2025,Room_1,big,19150622889,History,0,NotAnulled
+26562210584,81,Physics,extended,2025,Room_13,big,95635941509,Geography,0,NotAnulled
+18656680878,78,Mathematics,basic,2025,Room_15,small,76846326096,Geography,0,NotAnulled
+18656680878,79,Polish,basic,2025,Room_18,small,73128415155,Chemistry,0,NotAnulled
+18656680878,80,English,basic,2025,Room_11,small,7627861561,Biology,0,NotAnulled
+18656680878,83,Biology,extended,2025,Room_6,small,75425501819,Polish,0,NotAnulled
+73712795440,78,Mathematics,basic,2025,Room_9,small,23041778753,Physics,0,NotAnulled
+73712795440,79,Polish,basic,2025,Room_21,big,81165531253,Geography,0,NotAnulled
+73712795440,80,English,basic,2025,Room_6,small,50945643201,Physics,0,NotAnulled
+73712795440,83,Biology,extended,2025,Room_21,big,97238058536,Chemistry,0,NotAnulled
+73712795440,85,Geography,extended,2025,Room_14,small,23041778753,Physics,0,NotAnulled
+73712795440,88,English,extended,2025,Room_3,big,52894468092,Geography,0,NotAnulled
+18555194743,78,Mathematics,basic,2025,Room_11,small,73128415155,Chemistry,0,NotAnulled
+18555194743,79,Polish,basic,2025,Room_6,small,88515543667,Mathematics,0,NotAnulled
+18555194743,80,English,basic,2025,Room_16,small,73128415155,Chemistry,0,NotAnulled
+18555194743,87,Polish,extended,2025,Room_10,small,23041778753,Physics,0,NotAnulled
+18555194743,84,Chemistry,extended,2025,Room_5,big,36952721923,Polish,0,NotAnulled
+18555194743,82,History,extended,2025,Room_11,small,90391127449,Chemistry,0,NotAnulled
+18555194743,83,Biology,extended,2025,Room_5,big,90391127449,Chemistry,0,NotAnulled
+18555194743,88,English,extended,2025,Room_9,small,58175080694,History,0,NotAnulled
+72909651277,78,Mathematics,basic,2025,Room_14,small,76846326096,Geography,0,NotAnulled
+72909651277,79,Polish,basic,2025,Room_20,small,15631219101,English,0,NotAnulled
+72909651277,80,English,basic,2025,Room_14,small,58175080694,History,0,NotAnulled
+72909651277,81,Physics,extended,2025,Room_16,small,18138552030,Polish,0,NotAnulled
+72909651277,86,Mathematics,extended,2025,Room_8,small,26437583152,Polish,0,NotAnulled
+72909651277,83,Biology,extended,2025,Room_8,small,95635941509,Geography,0,NotAnulled
+72909651277,88,English,extended,2025,Room_19,small,36952721923,Polish,0,NotAnulled
+72909651277,82,History,extended,2025,Room_3,big,51973405392,Physics,0,NotAnulled
+72909651277,85,Geography,extended,2025,Room_19,small,15631219101,English,0,NotAnulled
+92658454425,78,Mathematics,basic,2025,Room_10,small,67239597077,Physics,0,NotAnulled
+92658454425,79,Polish,basic,2025,Room_12,big,51973405392,Physics,0,NotAnulled
+92658454425,80,English,basic,2025,Room_7,small,7627861561,Biology,0,NotAnulled
+92658454425,82,History,extended,2025,Room_2,big,41025702129,English,0,NotAnulled
+44848501766,78,Mathematics,basic,2025,Room_13,big,99010112345,Physical Education,0,NotAnulled
+44848501766,79,Polish,basic,2025,Room_13,big,90391127449,Chemistry,0,NotAnulled
+44848501766,80,English,basic,2025,Room_3,big,51973405392,Physics,0,NotAnulled
+44848501766,84,Chemistry,extended,2025,Room_13,big,24935803837,Geography,0,NotAnulled
+44848501766,88,English,extended,2025,Room_17,big,36952721923,Polish,0,NotAnulled
+44848501766,81,Physics,extended,2025,Room_21,big,60831350511,Biology,0,NotAnulled
+44848501766,86,Mathematics,extended,2025,Room_14,small,7627861561,Biology,0,NotAnulled
+44848501766,87,Polish,extended,2025,Room_8,small,95635941509,Geography,0,NotAnulled
+44848501766,85,Geography,extended,2025,Room_5,big,26437583152,Polish,0,NotAnulled
+8161187202,78,Mathematics,basic,2025,Room_1,big,51937947921,Polish,0,NotAnulled
+8161187202,79,Polish,basic,2025,Room_20,small,73128415155,Chemistry,0,NotAnulled
+8161187202,80,English,basic,2025,Room_5,big,51937947921,Polish,0,NotAnulled
+8161187202,84,Chemistry,extended,2025,Room_18,small,19150622889,History,0,NotAnulled
+1323202998,78,Mathematics,basic,2025,Room_8,small,73128415155,Chemistry,0,NotAnulled
+1323202998,79,Polish,basic,2025,Room_4,big,19150622889,History,0,NotAnulled
+1323202998,80,English,basic,2025,Room_6,small,26437583152,Polish,0,NotAnulled
+1323202998,81,Physics,extended,2025,Room_12,big,24935803837,Geography,0,NotAnulled
+49160078393,78,Mathematics,basic,2025,Room_20,small,75425501819,Polish,0,NotAnulled
+49160078393,79,Polish,basic,2025,Room_6,small,81359177700,Geography,0,NotAnulled
+49160078393,80,English,basic,2025,Room_13,big,18138552030,Polish,0,NotAnulled
+49160078393,87,Polish,extended,2025,Room_10,small,73128415155,Chemistry,0,NotAnulled
+49160078393,88,English,extended,2025,Room_2,big,81165531253,Geography,0,NotAnulled
+49160078393,86,Mathematics,extended,2025,Room_3,big,76846326096,Geography,0,NotAnulled
+28524220661,78,Mathematics,basic,2025,Room_19,small,26437583152,Polish,0,NotAnulled
+28524220661,79,Polish,basic,2025,Room_13,big,81359177700,Geography,0,NotAnulled
+28524220661,80,English,basic,2025,Room_20,small,7627861561,Biology,0,NotAnulled
+28524220661,87,Polish,extended,2025,Room_5,big,7627861561,Biology,0,NotAnulled
+28524220661,83,Biology,extended,2025,Room_5,big,97238058536,Chemistry,0,NotAnulled
+28524220661,82,History,extended,2025,Room_6,small,76846326096,Geography,0,NotAnulled
+28524220661,88,English,extended,2025,Room_1,big,97238058536,Chemistry,0,NotAnulled
+28524220661,85,Geography,extended,2025,Room_17,big,18138552030,Polish,0,NotAnulled
+28524220661,86,Mathematics,extended,2025,Room_9,small,8717912686,Biology,0,NotAnulled
+26963491876,78,Mathematics,basic,2025,Room_19,small,76846326096,Geography,0,NotAnulled
+26963491876,79,Polish,basic,2025,Room_13,big,24935803837,Geography,0,NotAnulled
+26963491876,80,English,basic,2025,Room_13,big,36952721923,Polish,0,NotAnulled
+26963491876,84,Chemistry,extended,2025,Room_9,small,23041778753,Physics,0,NotAnulled
+26963491876,88,English,extended,2025,Room_15,small,75425501819,Polish,0,NotAnulled
+92107541115,78,Mathematics,basic,2025,Room_11,small,15187984005,Biology,0,NotAnulled
+92107541115,79,Polish,basic,2025,Room_15,small,60831350511,Biology,0,NotAnulled
+92107541115,80,English,basic,2025,Room_12,big,15187984005,Biology,0,NotAnulled
+92107541115,82,History,extended,2025,Room_21,big,81359177700,Geography,0,NotAnulled
+92107541115,86,Mathematics,extended,2025,Room_18,small,58175080694,History,0,NotAnulled
+92107541115,88,English,extended,2025,Room_17,big,50945643201,Physics,0,NotAnulled
+53737718210,78,Mathematics,basic,2025,Room_19,small,60831350511,Biology,0,NotAnulled
+53737718210,79,Polish,basic,2025,Room_10,small,15187984005,Biology,0,NotAnulled
+53737718210,80,English,basic,2025,Room_16,small,51937947921,Polish,0,NotAnulled
+53737718210,82,History,extended,2025,Room_12,big,81165531253,Geography,0,NotAnulled
+53737718210,86,Mathematics,extended,2025,Room_18,small,97238058536,Chemistry,0,NotAnulled
+71318266185,78,Mathematics,basic,2025,Room_2,big,99010112345,Physical Education,0,NotAnulled
+71318266185,79,Polish,basic,2025,Room_4,big,50945643201,Physics,0,NotAnulled
+71318266185,80,English,basic,2025,Room_12,big,99010112345,Physical Education,0,NotAnulled
+71318266185,83,Biology,extended,2025,Room_1,big,52894468092,Geography,0,NotAnulled
+71318266185,84,Chemistry,extended,2025,Room_2,big,23041778753,Physics,0,NotAnulled
+71318266185,81,Physics,extended,2025,Room_8,small,75425501819,Polish,0,NotAnulled
+53090369370,78,Mathematics,basic,2025,Room_2,big,60831350511,Biology,0,NotAnulled
+53090369370,79,Polish,basic,2025,Room_17,big,24935803837,Geography,0,NotAnulled
+53090369370,80,English,basic,2025,Room_9,small,52894468092,Geography,0,NotAnulled
+53090369370,87,Polish,extended,2025,Room_17,big,73128415155,Chemistry,0,NotAnulled
+53127156173,78,Mathematics,basic,2025,Room_6,small,95635941509,Geography,0,NotAnulled
+53127156173,79,Polish,basic,2025,Room_2,big,73128415155,Chemistry,0,NotAnulled
+53127156173,80,English,basic,2025,Room_3,big,19150622889,History,0,NotAnulled
+53127156173,86,Mathematics,extended,2025,Room_6,small,67239597077,Physics,0,NotAnulled
+53127156173,82,History,extended,2025,Room_3,big,90391127449,Chemistry,0,NotAnulled
+53127156173,87,Polish,extended,2025,Room_1,big,81165531253,Geography,0,NotAnulled
+53127156173,84,Chemistry,extended,2025,Room_18,small,15631219101,English,0,NotAnulled
+53127156173,83,Biology,extended,2025,Room_17,big,67239597077,Physics,0,NotAnulled
+40163764044,78,Mathematics,basic,2025,Room_3,big,19150622889,History,0,NotAnulled
+40163764044,79,Polish,basic,2025,Room_21,big,50945643201,Physics,0,NotAnulled
+40163764044,80,English,basic,2025,Room_19,small,99010112345,Physical Education,0,NotAnulled
+40163764044,86,Mathematics,extended,2025,Room_13,big,51973405392,Physics,0,NotAnulled
+40163764044,87,Polish,extended,2025,Room_17,big,50945643201,Physics,0,NotAnulled
+40163764044,88,English,extended,2025,Room_17,big,23041778753,Physics,0,NotAnulled
+40163764044,85,Geography,extended,2025,Room_3,big,26437583152,Polish,0,NotAnulled
+40163764044,84,Chemistry,extended,2025,Room_2,big,75425501819,Polish,0,NotAnulled
+40163764044,83,Biology,extended,2025,Room_3,big,67239597077,Physics,0,NotAnulled
+26146037043,78,Mathematics,basic,2025,Room_11,small,95635941509,Geography,0,NotAnulled
+26146037043,79,Polish,basic,2025,Room_21,big,8717912686,Biology,0,NotAnulled
+26146037043,80,English,basic,2025,Room_2,big,81359177700,Geography,0,NotAnulled
+26146037043,81,Physics,extended,2025,Room_5,big,51937947921,Polish,0,NotAnulled
+26146037043,83,Biology,extended,2025,Room_21,big,41025702129,English,0,NotAnulled
+26146037043,84,Chemistry,extended,2025,Room_3,big,36952721923,Polish,0,NotAnulled
+60097747205,78,Mathematics,basic,2025,Room_11,small,23041778753,Physics,0,NotAnulled
+60097747205,79,Polish,basic,2025,Room_7,small,95635941509,Geography,0,NotAnulled
+60097747205,80,English,basic,2025,Room_8,small,51937947921,Polish,0,NotAnulled
+60097747205,84,Chemistry,extended,2025,Room_3,big,88515543667,Mathematics,0,NotAnulled
+60097747205,81,Physics,extended,2025,Room_19,small,26437583152,Polish,0,NotAnulled
+60097747205,86,Mathematics,extended,2025,Room_11,small,19150622889,History,0,NotAnulled
+59684707330,78,Mathematics,basic,2025,Room_14,small,67239597077,Physics,0,NotAnulled
+59684707330,79,Polish,basic,2025,Room_3,big,52894468092,Geography,0,NotAnulled
+59684707330,80,English,basic,2025,Room_21,big,50945643201,Physics,0,NotAnulled
+59684707330,84,Chemistry,extended,2025,Room_17,big,81165531253,Geography,0,NotAnulled
+59684707330,88,English,extended,2025,Room_18,small,7627861561,Biology,0,NotAnulled
+59684707330,81,Physics,extended,2025,Room_9,small,60831350511,Biology,0,NotAnulled
+59684707330,82,History,extended,2025,Room_5,big,60831350511,Biology,0,NotAnulled
+59684707330,86,Mathematics,extended,2025,Room_14,small,95635941509,Geography,0,NotAnulled
+59684707330,83,Biology,extended,2025,Room_1,big,19150622889,History,0,NotAnulled
+17549571281,78,Mathematics,basic,2025,Room_17,big,8717912686,Biology,0,NotAnulled
+17549571281,79,Polish,basic,2025,Room_10,small,73128415155,Chemistry,0,NotAnulled
+17549571281,80,English,basic,2025,Room_12,big,15187984005,Biology,0,NotAnulled
+17549571281,86,Mathematics,extended,2025,Room_9,small,8717912686,Biology,0,NotAnulled
+17549571281,81,Physics,extended,2025,Room_7,small,51937947921,Polish,0,NotAnulled
+72445471767,78,Mathematics,basic,2025,Room_14,small,19150622889,History,0,NotAnulled
+72445471767,79,Polish,basic,2025,Room_20,small,60831350511,Biology,0,NotAnulled
+72445471767,80,English,basic,2025,Room_3,big,75425501819,Polish,0,NotAnulled
+72445471767,87,Polish,extended,2025,Room_5,big,73128415155,Chemistry,0,NotAnulled
+72445471767,86,Mathematics,extended,2025,Room_4,big,73128415155,Chemistry,0,NotAnulled
+72445471767,81,Physics,extended,2025,Room_3,big,24935803837,Geography,0,NotAnulled
+72445471767,85,Geography,extended,2025,Room_5,big,26437583152,Polish,0,NotAnulled
+81432989244,78,Mathematics,basic,2025,Room_4,big,18138552030,Polish,0,NotAnulled
+81432989244,79,Polish,basic,2025,Room_4,big,67239597077,Physics,0,NotAnulled
+81432989244,80,English,basic,2025,Room_19,small,51937947921,Polish,0,NotAnulled
+81432989244,87,Polish,extended,2025,Room_21,big,52894468092,Geography,0,NotAnulled
+87657965970,78,Mathematics,basic,2025,Room_17,big,51973405392,Physics,0,NotAnulled
+87657965970,79,Polish,basic,2025,Room_2,big,41025702129,English,0,NotAnulled
+87657965970,80,English,basic,2025,Room_19,small,19150622889,History,0,NotAnulled
+87657965970,83,Biology,extended,2025,Room_21,big,76846326096,Geography,0,NotAnulled
+87657965970,86,Mathematics,extended,2025,Room_12,big,51973405392,Physics,0,NotAnulled
+87657965970,87,Polish,extended,2025,Room_1,big,23041778753,Physics,0,NotAnulled
+87657965970,85,Geography,extended,2025,Room_13,big,51937947921,Polish,0,NotAnulled
+62516744441,78,Mathematics,basic,2025,Room_16,small,24935803837,Geography,0,NotAnulled
+62516744441,79,Polish,basic,2025,Room_1,big,15631219101,English,0,NotAnulled
+62516744441,80,English,basic,2025,Room_18,small,67239597077,Physics,0,NotAnulled
+62516744441,82,History,extended,2025,Room_1,big,26437583152,Polish,0,NotAnulled
+62516744441,83,Biology,extended,2025,Room_10,small,15631219101,English,0,NotAnulled
+62516744441,86,Mathematics,extended,2025,Room_19,small,81359177700,Geography,0,NotAnulled
+62516744441,87,Polish,extended,2025,Room_20,small,67239597077,Physics,0,NotAnulled
+62516744441,85,Geography,extended,2025,Room_12,big,73128415155,Chemistry,0,NotAnulled
+26357900928,78,Mathematics,basic,2025,Room_11,small,24935803837,Geography,0,NotAnulled
+26357900928,79,Polish,basic,2025,Room_7,small,90391127449,Chemistry,0,NotAnulled
+26357900928,80,English,basic,2025,Room_20,small,81359177700,Geography,0,NotAnulled
+26357900928,81,Physics,extended,2025,Room_8,small,52894468092,Geography,0,NotAnulled
+26357900928,85,Geography,extended,2025,Room_13,big,41025702129,English,0,NotAnulled
+26357900928,84,Chemistry,extended,2025,Room_17,big,15631219101,English,0,NotAnulled
+26357900928,88,English,extended,2025,Room_5,big,18138552030,Polish,0,NotAnulled
+66803349768,78,Mathematics,basic,2025,Room_15,small,58175080694,History,0,NotAnulled
+66803349768,79,Polish,basic,2025,Room_4,big,50945643201,Physics,0,NotAnulled
+66803349768,80,English,basic,2025,Room_12,big,81165531253,Geography,0,NotAnulled
+66803349768,82,History,extended,2025,Room_12,big,88515543667,Mathematics,0,NotAnulled
+66803349768,84,Chemistry,extended,2025,Room_12,big,52894468092,Geography,0,NotAnulled
+80893927459,78,Mathematics,basic,2025,Room_9,small,60831350511,Biology,0,NotAnulled
+80893927459,79,Polish,basic,2025,Room_14,small,88515543667,Mathematics,0,NotAnulled
+80893927459,80,English,basic,2025,Room_3,big,97238058536,Chemistry,0,NotAnulled
+80893927459,81,Physics,extended,2025,Room_3,big,36952721923,Polish,0,NotAnulled
+80893927459,88,English,extended,2025,Room_4,big,90391127449,Chemistry,0,NotAnulled
+32055281563,78,Mathematics,basic,2025,Room_6,small,15631219101,English,0,NotAnulled
+32055281563,79,Polish,basic,2025,Room_6,small,76846326096,Geography,0,NotAnulled
+32055281563,80,English,basic,2025,Room_4,big,36952721923,Polish,0,NotAnulled
+32055281563,86,Mathematics,extended,2025,Room_2,big,67239597077,Physics,0,NotAnulled
+32055281563,82,History,extended,2025,Room_14,small,7627861561,Biology,0,NotAnulled
+32055281563,85,Geography,extended,2025,Room_21,big,26437583152,Polish,0,NotAnulled
+39782894892,78,Mathematics,basic,2025,Room_2,big,51973405392,Physics,0,NotAnulled
+39782894892,79,Polish,basic,2025,Room_16,small,67239597077,Physics,0,NotAnulled
+39782894892,80,English,basic,2025,Room_19,small,81165531253,Geography,0,NotAnulled
+39782894892,84,Chemistry,extended,2025,Room_20,small,75425501819,Polish,0,NotAnulled
+39782894892,85,Geography,extended,2025,Room_13,big,97238058536,Chemistry,0,NotAnulled
+39782894892,83,Biology,extended,2025,Room_6,small,15631219101,English,0,NotAnulled
+39782894892,82,History,extended,2025,Room_1,big,95635941509,Geography,0,NotAnulled
+14914450783,78,Mathematics,basic,2025,Room_5,big,81165531253,Geography,0,NotAnulled
+14914450783,79,Polish,basic,2025,Room_1,big,8717912686,Biology,0,NotAnulled
+14914450783,80,English,basic,2025,Room_3,big,67239597077,Physics,0,NotAnulled
+14914450783,85,Geography,extended,2025,Room_12,big,41025702129,English,0,NotAnulled
+23266511188,78,Mathematics,basic,2025,Room_19,small,81359177700,Geography,0,NotAnulled
+23266511188,79,Polish,basic,2025,Room_8,small,97238058536,Chemistry,0,NotAnulled
+23266511188,80,English,basic,2025,Room_19,small,15187984005,Biology,0,NotAnulled
+23266511188,87,Polish,extended,2025,Room_21,big,99010112345,Physical Education,0,NotAnulled
+23266511188,86,Mathematics,extended,2025,Room_15,small,18138552030,Polish,0,NotAnulled
+23266511188,82,History,extended,2025,Room_17,big,26437583152,Polish,0,NotAnulled
+23266511188,84,Chemistry,extended,2025,Room_7,small,81359177700,Geography,0,NotAnulled
+23266511188,81,Physics,extended,2025,Room_7,small,81165531253,Geography,0,NotAnulled
+23266511188,88,English,extended,2025,Room_21,big,97238058536,Chemistry,0,NotAnulled
+1051194393,78,Mathematics,basic,2025,Room_17,big,58175080694,History,0,NotAnulled
+1051194393,79,Polish,basic,2025,Room_3,big,52894468092,Geography,0,NotAnulled
+1051194393,80,English,basic,2025,Room_7,small,81165531253,Geography,0,NotAnulled
+1051194393,87,Polish,extended,2025,Room_16,small,19150622889,History,0,NotAnulled
+1051194393,85,Geography,extended,2025,Room_9,small,90391127449,Chemistry,0,NotAnulled
+1051194393,86,Mathematics,extended,2025,Room_15,small,23041778753,Physics,0,NotAnulled
+81890959578,78,Mathematics,basic,2025,Room_10,small,23041778753,Physics,0,NotAnulled
+81890959578,79,Polish,basic,2025,Room_17,big,97238058536,Chemistry,0,NotAnulled
+81890959578,80,English,basic,2025,Room_4,big,73128415155,Chemistry,0,NotAnulled
+81890959578,88,English,extended,2025,Room_5,big,19150622889,History,0,NotAnulled
+81890959578,81,Physics,extended,2025,Room_3,big,24935803837,Geography,0,NotAnulled
+81890959578,83,Biology,extended,2025,Room_5,big,36952721923,Polish,0,NotAnulled
+58263699200,78,Mathematics,basic,2025,Room_21,big,24935803837,Geography,0,NotAnulled
+58263699200,79,Polish,basic,2025,Room_20,small,81165531253,Geography,0,NotAnulled
+58263699200,80,English,basic,2025,Room_12,big,23041778753,Physics,0,NotAnulled
+58263699200,85,Geography,extended,2025,Room_8,small,60831350511,Biology,0,NotAnulled
+58263699200,83,Biology,extended,2025,Room_8,small,95635941509,Geography,0,NotAnulled
+58263699200,82,History,extended,2025,Room_15,small,88515543667,Mathematics,0,NotAnulled
+58263699200,81,Physics,extended,2025,Room_16,small,8717912686,Biology,0,NotAnulled
+58263699200,87,Polish,extended,2025,Room_13,big,50945643201,Physics,0,NotAnulled
+58263699200,84,Chemistry,extended,2025,Room_17,big,15631219101,English,0,NotAnulled
+47758248283,78,Mathematics,basic,2025,Room_20,small,73128415155,Chemistry,0,NotAnulled
+47758248283,79,Polish,basic,2025,Room_12,big,95635941509,Geography,0,NotAnulled
+47758248283,80,English,basic,2025,Room_21,big,81359177700,Geography,0,NotAnulled
+47758248283,85,Geography,extended,2025,Room_3,big,97238058536,Chemistry,0,NotAnulled
+47758248283,87,Polish,extended,2025,Room_9,small,19150622889,History,0,NotAnulled
+47758248283,84,Chemistry,extended,2025,Room_1,big,15187984005,Biology,0,NotAnulled
+47758248283,82,History,extended,2025,Room_14,small,95635941509,Geography,0,NotAnulled
+37990188634,78,Mathematics,basic,2025,Room_10,small,41025702129,English,0,NotAnulled
+37990188634,79,Polish,basic,2025,Room_3,big,19150622889,History,0,NotAnulled
+37990188634,80,English,basic,2025,Room_17,big,26437583152,Polish,0,NotAnulled
+37990188634,82,History,extended,2025,Room_16,small,24935803837,Geography,0,NotAnulled
+37990188634,85,Geography,extended,2025,Room_13,big,15187984005,Biology,0,NotAnulled
+37990188634,87,Polish,extended,2025,Room_15,small,73128415155,Chemistry,0,NotAnulled
+37990188634,83,Biology,extended,2025,Room_14,small,90391127449,Chemistry,0,NotAnulled
+61502562065,78,Mathematics,basic,2025,Room_21,big,36952721923,Polish,0,NotAnulled
+61502562065,79,Polish,basic,2025,Room_8,small,76846326096,Geography,0,NotAnulled
+61502562065,80,English,basic,2025,Room_21,big,95635941509,Geography,0,NotAnulled
+61502562065,87,Polish,extended,2025,Room_2,big,90391127449,Chemistry,0,NotAnulled
+61502562065,83,Biology,extended,2025,Room_9,small,51937947921,Polish,0,NotAnulled
+61502562065,86,Mathematics,extended,2025,Room_7,small,23041778753,Physics,0,NotAnulled
+61502562065,82,History,extended,2025,Room_19,small,81165531253,Geography,0,NotAnulled
+61502562065,84,Chemistry,extended,2025,Room_14,small,67239597077,Physics,0,NotAnulled
+4996373498,78,Mathematics,basic,2025,Room_14,small,81359177700,Geography,0,NotAnulled
+4996373498,79,Polish,basic,2025,Room_17,big,81165531253,Geography,0,NotAnulled
+4996373498,80,English,basic,2025,Room_9,small,50945643201,Physics,0,NotAnulled
+4996373498,81,Physics,extended,2025,Room_1,big,41025702129,English,0,NotAnulled
+4996373498,86,Mathematics,extended,2025,Room_19,small,99010112345,Physical Education,0,NotAnulled
+4996373498,88,English,extended,2025,Room_10,small,23041778753,Physics,0,NotAnulled
+4996373498,85,Geography,extended,2025,Room_13,big,75425501819,Polish,0,NotAnulled
+5823908336,78,Mathematics,basic,2025,Room_5,big,81165531253,Geography,0,NotAnulled
+5823908336,79,Polish,basic,2025,Room_7,small,23041778753,Physics,0,NotAnulled
+5823908336,80,English,basic,2025,Room_18,small,60831350511,Biology,0,NotAnulled
+5823908336,88,English,extended,2025,Room_1,big,99010112345,Physical Education,0,NotAnulled
+5823908336,87,Polish,extended,2025,Room_8,small,67239597077,Physics,0,NotAnulled
+5823908336,81,Physics,extended,2025,Room_6,small,97238058536,Chemistry,0,NotAnulled
+5823908336,84,Chemistry,extended,2025,Room_3,big,99010112345,Physical Education,0,NotAnulled
+12611385597,78,Mathematics,basic,2025,Room_9,small,15187984005,Biology,0,NotAnulled
+12611385597,79,Polish,basic,2025,Room_10,small,52894468092,Geography,0,NotAnulled
+12611385597,80,English,basic,2025,Room_13,big,24935803837,Geography,0,NotAnulled
+12611385597,82,History,extended,2025,Room_5,big,7627861561,Biology,0,NotAnulled
+12611385597,88,English,extended,2025,Room_15,small,73128415155,Chemistry,0,NotAnulled
+12611385597,87,Polish,extended,2025,Room_12,big,19150622889,History,0,NotAnulled
+12611385597,85,Geography,extended,2025,Room_10,small,7627861561,Biology,0,NotAnulled
+82010290178,78,Mathematics,basic,2025,Room_10,small,75425501819,Polish,0,NotAnulled
+82010290178,79,Polish,basic,2025,Room_2,big,19150622889,History,0,NotAnulled
+82010290178,80,English,basic,2025,Room_12,big,50945643201,Physics,0,NotAnulled
+82010290178,81,Physics,extended,2025,Room_12,big,52894468092,Geography,0,NotAnulled
+82010290178,88,English,extended,2025,Room_12,big,52894468092,Geography,0,NotAnulled
+82010290178,86,Mathematics,extended,2025,Room_20,small,67239597077,Physics,0,NotAnulled
+82010290178,83,Biology,extended,2025,Room_2,big,18138552030,Polish,0,NotAnulled
+82010290178,82,History,extended,2025,Room_2,big,23041778753,Physics,0,NotAnulled
+82010290178,87,Polish,extended,2025,Room_19,small,90391127449,Chemistry,0,NotAnulled
+46696787711,78,Mathematics,basic,2025,Room_17,big,51937947921,Polish,0,NotAnulled
+46696787711,79,Polish,basic,2025,Room_12,big,15187984005,Biology,0,NotAnulled
+46696787711,80,English,basic,2025,Room_4,big,50945643201,Physics,0,NotAnulled
+46696787711,83,Biology,extended,2025,Room_1,big,81359177700,Geography,0,NotAnulled
+46696787711,81,Physics,extended,2025,Room_14,small,76846326096,Geography,0,NotAnulled
+46696787711,84,Chemistry,extended,2025,Room_5,big,19150622889,History,0,NotAnulled
+35652834104,78,Mathematics,basic,2025,Room_5,big,67239597077,Physics,0,NotAnulled
+35652834104,79,Polish,basic,2025,Room_7,small,15631219101,English,0,NotAnulled
+35652834104,80,English,basic,2025,Room_7,small,99010112345,Physical Education,0,NotAnulled
+35652834104,87,Polish,extended,2025,Room_17,big,73128415155,Chemistry,0,NotAnulled
+73426045390,78,Mathematics,basic,2025,Room_5,big,26437583152,Polish,0,NotAnulled
+73426045390,79,Polish,basic,2025,Room_15,small,50945643201,Physics,0,NotAnulled
+73426045390,80,English,basic,2025,Room_17,big,52894468092,Geography,0,NotAnulled
+73426045390,85,Geography,extended,2025,Room_9,small,90391127449,Chemistry,0,NotAnulled
+73426045390,82,History,extended,2025,Room_20,small,99010112345,Physical Education,0,NotAnulled
+73426045390,81,Physics,extended,2025,Room_12,big,76846326096,Geography,0,NotAnulled
+17235264253,78,Mathematics,basic,2025,Room_4,big,75425501819,Polish,0,NotAnulled
+17235264253,79,Polish,basic,2025,Room_11,small,8717912686,Biology,0,NotAnulled
+17235264253,80,English,basic,2025,Room_21,big,67239597077,Physics,0,NotAnulled
+17235264253,87,Polish,extended,2025,Room_8,small,88515543667,Mathematics,0,NotAnulled
+17235264253,83,Biology,extended,2025,Room_2,big,36952721923,Polish,0,NotAnulled
+17235264253,86,Mathematics,extended,2025,Room_10,small,7627861561,Biology,0,NotAnulled
+17235264253,85,Geography,extended,2025,Room_12,big,41025702129,English,0,NotAnulled
+17235264253,82,History,extended,2025,Room_2,big,24935803837,Geography,0,NotAnulled
+57917200288,78,Mathematics,basic,2025,Room_21,big,52894468092,Geography,0,NotAnulled
+57917200288,79,Polish,basic,2025,Room_5,big,24935803837,Geography,0,NotAnulled
+57917200288,80,English,basic,2025,Room_8,small,81165531253,Geography,0,NotAnulled
+57917200288,82,History,extended,2025,Room_2,big,8717912686,Biology,0,NotAnulled
+57917200288,87,Polish,extended,2025,Room_16,small,15187984005,Biology,0,NotAnulled
+57917200288,84,Chemistry,extended,2025,Room_11,small,41025702129,English,0,NotAnulled
+57917200288,86,Mathematics,extended,2025,Room_9,small,81359177700,Geography,0,NotAnulled
+57917200288,83,Biology,extended,2025,Room_1,big,81165531253,Geography,0,NotAnulled
+26209685134,78,Mathematics,basic,2025,Room_8,small,67239597077,Physics,0,NotAnulled
+26209685134,79,Polish,basic,2025,Room_17,big,51973405392,Physics,0,NotAnulled
+26209685134,80,English,basic,2025,Room_7,small,8717912686,Biology,0,NotAnulled
+26209685134,84,Chemistry,extended,2025,Room_13,big,67239597077,Physics,0,NotAnulled
+26209685134,88,English,extended,2025,Room_18,small,88515543667,Mathematics,0,NotAnulled
+26209685134,85,Geography,extended,2025,Room_2,big,26437583152,Polish,0,NotAnulled
+26209685134,82,History,extended,2025,Room_3,big,52894468092,Geography,0,NotAnulled
+76867273374,78,Mathematics,basic,2025,Room_14,small,41025702129,English,0,NotAnulled
+76867273374,79,Polish,basic,2025,Room_9,small,81359177700,Geography,0,NotAnulled
+76867273374,80,English,basic,2025,Room_1,big,26437583152,Polish,0,NotAnulled
+76867273374,86,Mathematics,extended,2025,Room_8,small,99010112345,Physical Education,0,NotAnulled
+76867273374,84,Chemistry,extended,2025,Room_19,small,95635941509,Geography,0,NotAnulled
+76867273374,82,History,extended,2025,Room_18,small,52894468092,Geography,0,NotAnulled
+76867273374,85,Geography,extended,2025,Room_5,big,41025702129,English,0,NotAnulled
+76867273374,83,Biology,extended,2025,Room_19,small,95635941509,Geography,0,NotAnulled
+96774613948,78,Mathematics,basic,2025,Room_21,big,36952721923,Polish,0,NotAnulled
+96774613948,79,Polish,basic,2025,Room_2,big,76846326096,Geography,0,NotAnulled
+96774613948,80,English,basic,2025,Room_20,small,36952721923,Polish,0,NotAnulled
+96774613948,87,Polish,extended,2025,Room_17,big,73128415155,Chemistry,0,NotAnulled
+96774613948,84,Chemistry,extended,2025,Room_15,small,15187984005,Biology,0,NotAnulled
+96774613948,88,English,extended,2025,Room_15,small,67239597077,Physics,0,NotAnulled
+56324058249,78,Mathematics,basic,2025,Room_20,small,18138552030,Polish,0,NotAnulled
+56324058249,79,Polish,basic,2025,Room_19,small,81165531253,Geography,0,NotAnulled
+56324058249,80,English,basic,2025,Room_4,big,52894468092,Geography,0,NotAnulled
+56324058249,87,Polish,extended,2025,Room_17,big,51973405392,Physics,0,NotAnulled
+56324058249,83,Biology,extended,2025,Room_10,small,36952721923,Polish,0,NotAnulled
+56324058249,81,Physics,extended,2025,Room_9,small,95635941509,Geography,0,NotAnulled
+56324058249,85,Geography,extended,2025,Room_12,big,19150622889,History,0,NotAnulled
+56324058249,86,Mathematics,extended,2025,Room_11,small,15187984005,Biology,0,NotAnulled
+56324058249,88,English,extended,2025,Room_19,small,58175080694,History,0,NotAnulled
+20696780593,78,Mathematics,basic,2025,Room_2,big,23041778753,Physics,0,NotAnulled
+20696780593,79,Polish,basic,2025,Room_14,small,90391127449,Chemistry,0,NotAnulled
+20696780593,80,English,basic,2025,Room_19,small,88515543667,Mathematics,0,NotAnulled
+20696780593,81,Physics,extended,2025,Room_14,small,26437583152,Polish,0,NotAnulled
+20696780593,83,Biology,extended,2025,Room_18,small,58175080694,History,0,NotAnulled
+20696780593,84,Chemistry,extended,2025,Room_21,big,88515543667,Mathematics,0,NotAnulled
+20696780593,87,Polish,extended,2025,Room_13,big,7627861561,Biology,0,NotAnulled
+95827478361,78,Mathematics,basic,2025,Room_13,big,73128415155,Chemistry,0,NotAnulled
+95827478361,79,Polish,basic,2025,Room_5,big,52894468092,Geography,0,NotAnulled
+95827478361,80,English,basic,2025,Room_13,big,58175080694,History,0,NotAnulled
+95827478361,84,Chemistry,extended,2025,Room_1,big,60831350511,Biology,0,NotAnulled
+95827478361,88,English,extended,2025,Room_19,small,51973405392,Physics,0,NotAnulled
+95827478361,82,History,extended,2025,Room_10,small,95635941509,Geography,0,NotAnulled
+95827478361,86,Mathematics,extended,2025,Room_4,big,18138552030,Polish,0,NotAnulled
+95827478361,81,Physics,extended,2025,Room_6,small,88515543667,Mathematics,0,NotAnulled
+95827478361,87,Polish,extended,2025,Room_2,big,60831350511,Biology,0,NotAnulled
+71286358108,78,Mathematics,basic,2025,Room_14,small,73128415155,Chemistry,0,NotAnulled
+71286358108,79,Polish,basic,2025,Room_16,small,73128415155,Chemistry,0,NotAnulled
+71286358108,80,English,basic,2025,Room_5,big,51937947921,Polish,0,NotAnulled
+71286358108,85,Geography,extended,2025,Room_16,small,60831350511,Biology,0,NotAnulled
+71286358108,86,Mathematics,extended,2025,Room_4,big,36952721923,Polish,0,NotAnulled
+71286358108,83,Biology,extended,2025,Room_2,big,99010112345,Physical Education,0,NotAnulled
+71286358108,87,Polish,extended,2025,Room_20,small,99010112345,Physical Education,0,NotAnulled
+71286358108,81,Physics,extended,2025,Room_12,big,73128415155,Chemistry,0,NotAnulled
+41703680974,78,Mathematics,basic,2025,Room_12,big,90391127449,Chemistry,0,NotAnulled
+41703680974,79,Polish,basic,2025,Room_13,big,60831350511,Biology,0,NotAnulled
+41703680974,80,English,basic,2025,Room_6,small,58175080694,History,0,NotAnulled
+41703680974,85,Geography,extended,2025,Room_15,small,15631219101,English,0,NotAnulled
+41703680974,81,Physics,extended,2025,Room_8,small,36952721923,Polish,0,NotAnulled
+41703680974,83,Biology,extended,2025,Room_21,big,75425501819,Polish,0,NotAnulled
+41703680974,86,Mathematics,extended,2025,Room_13,big,24935803837,Geography,0,NotAnulled
+18134888874,78,Mathematics,basic,2025,Room_9,small,24935803837,Geography,0,NotAnulled
+18134888874,79,Polish,basic,2025,Room_17,big,76846326096,Geography,0,NotAnulled
+18134888874,80,English,basic,2025,Room_20,small,19150622889,History,0,NotAnulled
+18134888874,82,History,extended,2025,Room_6,small,36952721923,Polish,0,NotAnulled
+39627835454,78,Mathematics,basic,2025,Room_2,big,8717912686,Biology,0,NotAnulled
+39627835454,79,Polish,basic,2025,Room_18,small,88515543667,Mathematics,0,NotAnulled
+39627835454,80,English,basic,2025,Room_3,big,97238058536,Chemistry,0,NotAnulled
+39627835454,87,Polish,extended,2025,Room_14,small,81165531253,Geography,0,NotAnulled
+39627835454,84,Chemistry,extended,2025,Room_7,small,88515543667,Mathematics,0,NotAnulled
+56172180590,78,Mathematics,basic,2025,Room_21,big,15187984005,Biology,0,NotAnulled
+56172180590,79,Polish,basic,2025,Room_3,big,15631219101,English,0,NotAnulled
+56172180590,80,English,basic,2025,Room_5,big,23041778753,Physics,0,NotAnulled
+56172180590,86,Mathematics,extended,2025,Room_6,small,26437583152,Polish,0,NotAnulled
+56172180590,85,Geography,extended,2025,Room_15,small,67239597077,Physics,0,NotAnulled
+333870589,78,Mathematics,basic,2025,Room_9,small,23041778753,Physics,0,NotAnulled
+333870589,79,Polish,basic,2025,Room_8,small,99010112345,Physical Education,0,NotAnulled
+333870589,80,English,basic,2025,Room_2,big,8717912686,Biology,0,NotAnulled
+333870589,85,Geography,extended,2025,Room_15,small,51937947921,Polish,0,NotAnulled
+333870589,88,English,extended,2025,Room_3,big,24935803837,Geography,0,NotAnulled
+333870589,87,Polish,extended,2025,Room_6,small,15631219101,English,0,NotAnulled
+25952412640,78,Mathematics,basic,2025,Room_15,small,23041778753,Physics,0,NotAnulled
+25952412640,79,Polish,basic,2025,Room_2,big,41025702129,English,0,NotAnulled
+25952412640,80,English,basic,2025,Room_12,big,52894468092,Geography,0,NotAnulled
+25952412640,86,Mathematics,extended,2025,Room_14,small,81359177700,Geography,0,NotAnulled
+25952412640,83,Biology,extended,2025,Room_11,small,73128415155,Physical Education,1,Anulled
+25952412640,82,History,extended,2025,Room_1,big,15187984005,Biology,0,NotAnulled
+79514787657,78,Mathematics,basic,2025,Room_13,big,81359177700,Geography,0,NotAnulled
+79514787657,79,Polish,basic,2025,Room_20,small,15631219101,English,0,NotAnulled
+79514787657,80,English,basic,2025,Room_6,small,51973405392,Physics,0,NotAnulled
+79514787657,84,Chemistry,extended,2025,Room_1,big,41025702129,English,0,NotAnulled
+5381647606,78,Mathematics,basic,2025,Room_8,small,95635941509,Geography,0,NotAnulled
+5381647606,79,Polish,basic,2025,Room_2,big,50945643201,Physics,0,NotAnulled
+5381647606,80,English,basic,2025,Room_13,big,52894468092,Geography,0,NotAnulled
+5381647606,81,Physics,extended,2025,Room_4,big,41025702129,English,0,NotAnulled
+16125670644,78,Mathematics,basic,2025,Room_13,big,52894468092,Geography,0,NotAnulled
+16125670644,79,Polish,basic,2025,Room_2,big,15187984005,Biology,0,NotAnulled
+16125670644,80,English,basic,2025,Room_17,big,19150622889,History,0,NotAnulled
+16125670644,87,Polish,extended,2025,Room_18,small,19150622889,History,0,NotAnulled
+16125670644,86,Mathematics,extended,2025,Room_14,small,26437583152,Polish,0,NotAnulled
+16125670644,84,Chemistry,extended,2025,Room_9,small,19150622889,History,0,NotAnulled
+16125670644,81,Physics,extended,2025,Room_13,big,36952721923,Polish,0,NotAnulled
+16125670644,82,History,extended,2025,Room_17,big,23041778753,Physics,0,NotAnulled
+78191602688,78,Mathematics,basic,2025,Room_11,small,51973405392,Physics,0,NotAnulled
+78191602688,79,Polish,basic,2025,Room_15,small,73128415155,Chemistry,0,NotAnulled
+78191602688,80,English,basic,2025,Room_1,big,58175080694,History,0,NotAnulled
+78191602688,81,Physics,extended,2025,Room_20,small,90391127449,Chemistry,0,NotAnulled
+1509825605,78,Mathematics,basic,2025,Room_11,small,26437583152,Polish,0,NotAnulled
+1509825605,79,Polish,basic,2025,Room_8,small,8717912686,Biology,0,NotAnulled
+1509825605,80,English,basic,2025,Room_11,small,90391127449,Chemistry,0,NotAnulled
+1509825605,85,Geography,extended,2025,Room_15,small,51937947921,Polish,0,NotAnulled
+1509825605,87,Polish,extended,2025,Room_17,big,76846326096,Geography,0,NotAnulled
+1509825605,81,Physics,extended,2025,Room_10,small,97238058536,Chemistry,0,NotAnulled
+1509825605,83,Biology,extended,2025,Room_9,small,76846326096,Geography,0,NotAnulled
+1509825605,86,Mathematics,extended,2025,Room_13,big,75425501819,Polish,0,NotAnulled
+38404931748,78,Mathematics,basic,2025,Room_6,small,7627861561,Biology,0,NotAnulled
+38404931748,79,Polish,basic,2025,Room_16,small,19150622889,History,0,NotAnulled
+38404931748,80,English,basic,2025,Room_17,big,90391127449,Chemistry,0,NotAnulled
+38404931748,84,Chemistry,extended,2025,Room_15,small,15631219101,English,0,NotAnulled
+84733494602,78,Mathematics,basic,2025,Room_14,small,60831350511,Biology,0,NotAnulled
+84733494602,79,Polish,basic,2025,Room_3,big,15631219101,English,0,NotAnulled
+84733494602,80,English,basic,2025,Room_12,big,99010112345,Physical Education,0,NotAnulled
+84733494602,85,Geography,extended,2025,Room_8,small,97238058536,Chemistry,0,NotAnulled
+84733494602,82,History,extended,2025,Room_11,small,24935803837,Geography,0,NotAnulled
+84733494602,84,Chemistry,extended,2025,Room_2,big,18138552030,Polish,0,NotAnulled
+84733494602,81,Physics,extended,2025,Room_9,small,7627861561,Biology,0,NotAnulled
+68779538881,78,Mathematics,basic,2025,Room_5,big,60831350511,Biology,0,NotAnulled
+68779538881,79,Polish,basic,2025,Room_20,small,76846326096,Geography,0,NotAnulled
+68779538881,80,English,basic,2025,Room_14,small,19150622889,History,0,NotAnulled
+68779538881,85,Geography,extended,2025,Room_12,big,51937947921,Polish,0,NotAnulled
+68779538881,87,Polish,extended,2025,Room_3,big,90391127449,Chemistry,0,NotAnulled
+68779538881,84,Chemistry,extended,2025,Room_8,small,50945643201,Physics,0,NotAnulled
+68779538881,82,History,extended,2025,Room_7,small,41025702129,English,0,NotAnulled
+22685402176,78,Mathematics,basic,2025,Room_10,small,81359177700,Geography,0,NotAnulled
+22685402176,79,Polish,basic,2025,Room_3,big,15631219101,English,0,NotAnulled
+22685402176,80,English,basic,2025,Room_8,small,24935803837,Geography,0,NotAnulled
+22685402176,82,History,extended,2025,Room_19,small,60831350511,Biology,0,NotAnulled
+22685402176,84,Chemistry,extended,2025,Room_1,big,15631219101,English,0,NotAnulled
+22685402176,87,Polish,extended,2025,Room_15,small,23041778753,Physics,0,NotAnulled
+67464298697,78,Mathematics,basic,2025,Room_20,small,18138552030,Polish,0,NotAnulled
+67464298697,79,Polish,basic,2025,Room_15,small,73128415155,Chemistry,0,NotAnulled
+67464298697,80,English,basic,2025,Room_17,big,67239597077,Physics,0,NotAnulled
+67464298697,82,History,extended,2025,Room_7,small,75425501819,Polish,0,NotAnulled
+67464298697,81,Physics,extended,2025,Room_13,big,15187984005,Biology,0,NotAnulled
+67464298697,83,Biology,extended,2025,Room_21,big,81359177700,Geography,0,NotAnulled
+67464298697,84,Chemistry,extended,2025,Room_13,big,88515543667,Mathematics,0,NotAnulled
+92082663572,78,Mathematics,basic,2025,Room_6,small,95635941509,Geography,0,NotAnulled
+92082663572,79,Polish,basic,2025,Room_13,big,73128415155,Chemistry,0,NotAnulled
+92082663572,80,English,basic,2025,Room_4,big,73128415155,Chemistry,0,NotAnulled
+92082663572,86,Mathematics,extended,2025,Room_21,big,8717912686,Biology,0,NotAnulled
+92082663572,85,Geography,extended,2025,Room_21,big,99010112345,Physical Education,0,NotAnulled
+57465009095,78,Mathematics,basic,2025,Room_19,small,18138552030,Polish,0,NotAnulled
+57465009095,79,Polish,basic,2025,Room_1,big,23041778753,Physics,0,NotAnulled
+57465009095,80,English,basic,2025,Room_6,small,18138552030,Polish,0,NotAnulled
+57465009095,84,Chemistry,extended,2025,Room_19,small,18138552030,Polish,0,NotAnulled
+57465009095,83,Biology,extended,2025,Room_20,small,81165531253,Geography,0,NotAnulled
+47178552525,78,Mathematics,basic,2025,Room_8,small,26437583152,Polish,0,NotAnulled
+47178552525,79,Polish,basic,2025,Room_15,small,76846326096,Geography,0,NotAnulled
+47178552525,80,English,basic,2025,Room_6,small,7627861561,Biology,0,NotAnulled
+47178552525,87,Polish,extended,2025,Room_2,big,8717912686,Biology,0,NotAnulled
+47178552525,85,Geography,extended,2025,Room_17,big,58175080694,History,0,NotAnulled
+47178552525,84,Chemistry,extended,2025,Room_17,big,58175080694,History,0,NotAnulled
+47178552525,86,Mathematics,extended,2025,Room_5,big,81359177700,Geography,0,NotAnulled
+47178552525,82,History,extended,2025,Room_21,big,88515543667,Mathematics,0,NotAnulled
+47178552525,81,Physics,extended,2025,Room_4,big,36952721923,Polish,0,NotAnulled
+65008248608,78,Mathematics,basic,2025,Room_3,big,7627861561,Biology,0,NotAnulled
+65008248608,79,Polish,basic,2025,Room_11,small,76846326096,Geography,0,NotAnulled
+65008248608,80,English,basic,2025,Room_16,small,7627861561,Biology,0,NotAnulled
+65008248608,83,Biology,extended,2025,Room_10,small,51973405392,Physics,0,NotAnulled
+65008248608,82,History,extended,2025,Room_18,small,75425501819,Polish,0,NotAnulled
+65008248608,88,English,extended,2025,Room_14,small,8717912686,Biology,0,NotAnulled
+8764347045,78,Mathematics,basic,2025,Room_16,small,19150622889,History,0,NotAnulled
+8764347045,79,Polish,basic,2025,Room_9,small,7627861561,Biology,0,NotAnulled
+8764347045,80,English,basic,2025,Room_3,big,51973405392,Physics,0,NotAnulled
+8764347045,84,Chemistry,extended,2025,Room_8,small,50945643201,Physics,0,NotAnulled
+8764347045,81,Physics,extended,2025,Room_2,big,24935803837,Geography,0,NotAnulled
+8764347045,88,English,extended,2025,Room_15,small,15187984005,Biology,0,NotAnulled
+8764347045,82,History,extended,2025,Room_3,big,90391127449,Chemistry,0,NotAnulled
+61347644030,78,Mathematics,basic,2025,Room_17,big,19150622889,History,0,NotAnulled
+61347644030,79,Polish,basic,2025,Room_2,big,41025702129,English,0,NotAnulled
+61347644030,80,English,basic,2025,Room_13,big,15187984005,Biology,0,NotAnulled
+61347644030,83,Biology,extended,2025,Room_14,small,18138552030,Polish,0,NotAnulled
+61347644030,84,Chemistry,extended,2025,Room_21,big,95635941509,Geography,0,NotAnulled
+61347644030,87,Polish,extended,2025,Room_11,small,41025702129,English,0,NotAnulled
+31971547010,78,Mathematics,basic,2025,Room_2,big,52894468092,Geography,0,NotAnulled
+31971547010,79,Polish,basic,2025,Room_12,big,8717912686,Biology,0,NotAnulled
+31971547010,80,English,basic,2025,Room_15,small,50945643201,Physics,0,NotAnulled
+31971547010,81,Physics,extended,2025,Room_10,small,41025702129,English,0,NotAnulled
+31971547010,82,History,extended,2025,Room_9,small,15187984005,Biology,0,NotAnulled
+31971547010,87,Polish,extended,2025,Room_12,big,67239597077,Physics,0,NotAnulled
+59508342425,78,Mathematics,basic,2025,Room_10,small,81165531253,Geography,0,NotAnulled
+59508342425,79,Polish,basic,2025,Room_21,big,50945643201,Physics,0,NotAnulled
+59508342425,80,English,basic,2025,Room_5,big,88515543667,Mathematics,0,NotAnulled
+59508342425,83,Biology,extended,2025,Room_13,big,52894468092,Geography,0,NotAnulled
+59508342425,84,Chemistry,extended,2025,Room_17,big,67239597077,Physics,0,NotAnulled
+50161486147,78,Mathematics,basic,2025,Room_19,small,99010112345,Physical Education,0,NotAnulled
+50161486147,79,Polish,basic,2025,Room_13,big,90391127449,Chemistry,0,NotAnulled
+50161486147,80,English,basic,2025,Room_5,big,76846326096,Geography,0,NotAnulled
+50161486147,82,History,extended,2025,Room_15,small,23041778753,Physics,0,NotAnulled
+50161486147,88,English,extended,2025,Room_20,small,26437583152,Polish,0,NotAnulled
+50161486147,81,Physics,extended,2025,Room_19,small,36952721923,Polish,0,NotAnulled
+92305926902,78,Mathematics,basic,2025,Room_8,small,76846326096,Geography,0,NotAnulled
+92305926902,79,Polish,basic,2025,Room_8,small,7627861561,Biology,0,NotAnulled
+92305926902,80,English,basic,2025,Room_8,small,99010112345,Physical Education,0,NotAnulled
+92305926902,81,Physics,extended,2025,Room_3,big,51937947921,Polish,0,NotAnulled
+92305926902,82,History,extended,2025,Room_16,small,7627861561,Biology,0,NotAnulled
+92305926902,85,Geography,extended,2025,Room_19,small,7627861561,Biology,0,NotAnulled
+93022756464,78,Mathematics,basic,2025,Room_7,small,75425501819,Polish,0,NotAnulled
+93022756464,79,Polish,basic,2025,Room_18,small,99010112345,Physical Education,0,NotAnulled
+93022756464,80,English,basic,2025,Room_12,big,99010112345,Physical Education,0,NotAnulled
+93022756464,88,English,extended,2025,Room_15,small,51973405392,Physics,0,NotAnulled
+93022756464,82,History,extended,2025,Room_17,big,60831350511,Biology,0,NotAnulled
+93022756464,85,Geography,extended,2025,Room_4,big,51937947921,Polish,0,NotAnulled
+93022756464,86,Mathematics,extended,2025,Room_3,big,81359177700,Geography,0,NotAnulled
+93022756464,84,Chemistry,extended,2025,Room_21,big,26437583152,Polish,0,NotAnulled
+96209948722,78,Mathematics,basic,2025,Room_11,small,81165531253,Geography,0,NotAnulled
+96209948722,79,Polish,basic,2025,Room_2,big,51973405392,Physics,0,NotAnulled
+96209948722,80,English,basic,2025,Room_16,small,76846326096,Geography,0,NotAnulled
+96209948722,87,Polish,extended,2025,Room_4,big,67239597077,Physics,0,NotAnulled
+96209948722,83,Biology,extended,2025,Room_5,big,81359177700,Geography,0,NotAnulled
+96209948722,88,English,extended,2025,Room_13,big,90391127449,Chemistry,0,NotAnulled
+96209948722,85,Geography,extended,2025,Room_7,small,7627861561,Biology,0,NotAnulled
+96209948722,81,Physics,extended,2025,Room_14,small,15187984005,Biology,0,NotAnulled
+25674684563,78,Mathematics,basic,2025,Room_19,small,7627861561,Biology,0,NotAnulled
+25674684563,79,Polish,basic,2025,Room_16,small,90391127449,Chemistry,0,NotAnulled
+25674684563,80,English,basic,2025,Room_14,small,75425501819,Polish,0,NotAnulled
+25674684563,87,Polish,extended,2025,Room_1,big,60831350511,Biology,0,NotAnulled
+25674684563,82,History,extended,2025,Room_4,big,41025702129,English,0,NotAnulled
+25674684563,81,Physics,extended,2025,Room_4,big,15631219101,English,0,NotAnulled
+25674684563,86,Mathematics,extended,2025,Room_4,big,99010112345,Physical Education,0,NotAnulled
+25674684563,84,Chemistry,extended,2025,Room_2,big,95635941509,Geography,0,NotAnulled
+27224215634,78,Mathematics,basic,2025,Room_16,small,73128415155,Chemistry,0,NotAnulled
+27224215634,79,Polish,basic,2025,Room_1,big,67239597077,Physics,0,NotAnulled
+27224215634,80,English,basic,2025,Room_21,big,81165531253,Geography,0,NotAnulled
+27224215634,82,History,extended,2025,Room_21,big,95635941509,Geography,0,NotAnulled
+27224215634,81,Physics,extended,2025,Room_6,small,88515543667,Mathematics,0,NotAnulled
+27224215634,86,Mathematics,extended,2025,Room_1,big,76846326096,Geography,0,NotAnulled
+27224215634,84,Chemistry,extended,2025,Room_7,small,81359177700,Geography,0,NotAnulled
+30592030568,78,Mathematics,basic,2025,Room_8,small,24935803837,Geography,0,NotAnulled
+30592030568,79,Polish,basic,2025,Room_2,big,95635941509,Geography,0,NotAnulled
+30592030568,80,English,basic,2025,Room_1,big,18138552030,Polish,0,NotAnulled
+30592030568,84,Chemistry,extended,2025,Room_13,big,15631219101,English,0,NotAnulled
+30592030568,85,Geography,extended,2025,Room_19,small,75425501819,Polish,0,NotAnulled
+30592030568,88,English,extended,2025,Room_3,big,50945643201,Physics,0,NotAnulled
+30592030568,86,Mathematics,extended,2025,Room_7,small,73128415155,Chemistry,0,NotAnulled
+30592030568,81,Physics,extended,2025,Room_10,small,41025702129,English,0,NotAnulled
+79808732780,78,Mathematics,basic,2025,Room_10,small,18138552030,Polish,0,NotAnulled
+79808732780,79,Polish,basic,2025,Room_12,big,23041778753,Physics,0,NotAnulled
+79808732780,80,English,basic,2025,Room_15,small,51937947921,Polish,0,NotAnulled
+79808732780,85,Geography,extended,2025,Room_4,big,15631219101,English,0,NotAnulled
+79808732780,87,Polish,extended,2025,Room_9,small,58175080694,History,0,NotAnulled
+79808732780,84,Chemistry,extended,2025,Room_5,big,60831350511,Biology,0,NotAnulled
+48963638754,78,Mathematics,basic,2025,Room_1,big,23041778753,Physics,0,NotAnulled
+48963638754,79,Polish,basic,2025,Room_17,big,23041778753,Physics,0,NotAnulled
+48963638754,80,English,basic,2025,Room_8,small,8717912686,Biology,0,NotAnulled
+48963638754,87,Polish,extended,2025,Room_13,big,81359177700,Geography,0,NotAnulled
+48963638754,84,Chemistry,extended,2025,Room_8,small,75425501819,Polish,0,NotAnulled
+70800529511,78,Mathematics,basic,2025,Room_21,big,81165531253,Geography,0,NotAnulled
+70800529511,79,Polish,basic,2025,Room_17,big,95635941509,Geography,0,NotAnulled
+70800529511,80,English,basic,2025,Room_8,small,52894468092,Geography,0,NotAnulled
+70800529511,87,Polish,extended,2025,Room_12,big,50945643201,Physics,0,NotAnulled
+13348915857,78,Mathematics,basic,2025,Room_13,big,19150622889,History,0,NotAnulled
+13348915857,79,Polish,basic,2025,Room_10,small,23041778753,Physics,0,NotAnulled
+13348915857,80,English,basic,2025,Room_15,small,58175080694,History,0,NotAnulled
+13348915857,83,Biology,extended,2025,Room_1,big,58175080694,History,0,NotAnulled
+13348915857,85,Geography,extended,2025,Room_2,big,58175080694,History,0,NotAnulled
+13348915857,84,Chemistry,extended,2025,Room_7,small,26437583152,Polish,0,NotAnulled
+13348915857,87,Polish,extended,2025,Room_14,small,15631219101,English,0,NotAnulled
+578138594,78,Mathematics,basic,2025,Room_7,small,52894468092,Geography,0,NotAnulled
+578138594,79,Polish,basic,2025,Room_9,small,81359177700,Geography,0,NotAnulled
+578138594,80,English,basic,2025,Room_16,small,8717912686,Biology,0,NotAnulled
+578138594,87,Polish,extended,2025,Room_7,small,73128415155,Chemistry,0,NotAnulled
+64717549345,78,Mathematics,basic,2025,Room_4,big,81165531253,Geography,0,NotAnulled
+64717549345,79,Polish,basic,2025,Room_10,small,60831350511,Biology,0,NotAnulled
+64717549345,80,English,basic,2025,Room_19,small,90391127449,Chemistry,0,NotAnulled
+64717549345,81,Physics,extended,2025,Room_16,small,90391127449,Chemistry,0,NotAnulled
+64717549345,86,Mathematics,extended,2025,Room_13,big,23041778753,Physics,0,NotAnulled
+83247774763,78,Mathematics,basic,2025,Room_18,small,15631219101,English,0,NotAnulled
+83247774763,79,Polish,basic,2025,Room_21,big,15631219101,English,0,NotAnulled
+83247774763,80,English,basic,2025,Room_16,small,50945643201,Physics,0,NotAnulled
+83247774763,81,Physics,extended,2025,Room_1,big,58175080694,History,0,NotAnulled
+83247774763,87,Polish,extended,2025,Room_3,big,90391127449,Chemistry,0,NotAnulled
+83247774763,83,Biology,extended,2025,Room_1,big,81165531253,Geography,0,NotAnulled
+83247774763,88,English,extended,2025,Room_6,small,24935803837,Geography,0,NotAnulled
+83247774763,84,Chemistry,extended,2025,Room_2,big,23041778753,Physics,0,NotAnulled
+84275705509,78,Mathematics,basic,2025,Room_8,small,67239597077,Physics,0,NotAnulled
+84275705509,79,Polish,basic,2025,Room_5,big,15187984005,Biology,0,NotAnulled
+84275705509,80,English,basic,2025,Room_12,big,81165531253,Geography,0,NotAnulled
+84275705509,87,Polish,extended,2025,Room_21,big,19150622889,History,0,NotAnulled
+71947616029,78,Mathematics,basic,2025,Room_19,small,81359177700,Geography,0,NotAnulled
+71947616029,79,Polish,basic,2025,Room_16,small,60831350511,Biology,0,NotAnulled
+71947616029,80,English,basic,2025,Room_1,big,18138552030,Polish,0,NotAnulled
+71947616029,83,Biology,extended,2025,Room_17,big,50945643201,Physics,0,NotAnulled
+71947616029,82,History,extended,2025,Room_6,small,51973405392,Physics,0,NotAnulled
+71947616029,84,Chemistry,extended,2025,Room_3,big,60831350511,Biology,0,NotAnulled
+71947616029,81,Physics,extended,2025,Room_1,big,97238058536,Chemistry,0,NotAnulled
+71947616029,87,Polish,extended,2025,Room_6,small,73128415155,Chemistry,0,NotAnulled
+71947616029,85,Geography,extended,2025,Room_10,small,67239597077,Physics,0,NotAnulled
+39521995940,78,Mathematics,basic,2025,Room_7,small,8717912686,Biology,0,NotAnulled
+39521995940,79,Polish,basic,2025,Room_16,small,97238058536,Chemistry,0,NotAnulled
+39521995940,80,English,basic,2025,Room_14,small,15187984005,Biology,0,NotAnulled
+39521995940,86,Mathematics,extended,2025,Room_15,small,26437583152,Polish,0,NotAnulled
+39521995940,83,Biology,extended,2025,Room_18,small,81165531253,Geography,0,NotAnulled
+39521995940,81,Physics,extended,2025,Room_5,big,36952721923,Polish,0,NotAnulled
+39521995940,87,Polish,extended,2025,Room_7,small,88515543667,Mathematics,0,NotAnulled
+74138287839,78,Mathematics,basic,2025,Room_6,small,95635941509,Geography,0,NotAnulled
+74138287839,79,Polish,basic,2025,Room_2,big,76846326096,Geography,0,NotAnulled
+74138287839,80,English,basic,2025,Room_14,small,26437583152,Polish,0,NotAnulled
+74138287839,88,English,extended,2025,Room_9,small,67239597077,Physics,0,NotAnulled
+74138287839,83,Biology,extended,2025,Room_8,small,41025702129,English,0,NotAnulled
+74138287839,81,Physics,extended,2025,Room_20,small,88515543667,Mathematics,0,NotAnulled
+74138287839,85,Geography,extended,2025,Room_8,small,41025702129,English,0,NotAnulled
+74138287839,84,Chemistry,extended,2025,Room_5,big,50945643201,Physics,0,NotAnulled
+2347715190,78,Mathematics,basic,2025,Room_12,big,18138552030,Polish,0,NotAnulled
+2347715190,79,Polish,basic,2025,Room_1,big,95635941509,Geography,0,NotAnulled
+2347715190,80,English,basic,2025,Room_14,small,36952721923,Polish,0,NotAnulled
+2347715190,86,Mathematics,extended,2025,Room_11,small,24935803837,Geography,0,NotAnulled
+2347715190,87,Polish,extended,2025,Room_5,big,15631219101,English,0,NotAnulled
+2347715190,83,Biology,extended,2025,Room_13,big,81359177700,Geography,0,NotAnulled
+2347715190,82,History,extended,2025,Room_14,small,15631219101,English,0,NotAnulled
+2347715190,84,Chemistry,extended,2025,Room_5,big,8717912686,Biology,0,NotAnulled
+16814535679,78,Mathematics,basic,2025,Room_1,big,24935803837,Geography,0,NotAnulled
+16814535679,79,Polish,basic,2025,Room_13,big,15187984005,Biology,0,NotAnulled
+16814535679,80,English,basic,2025,Room_15,small,51973405392,Physics,0,NotAnulled
+16814535679,84,Chemistry,extended,2025,Room_6,small,26437583152,Polish,0,NotAnulled
+16814535679,83,Biology,extended,2025,Room_12,big,95635941509,Geography,0,NotAnulled
+61745895375,78,Mathematics,basic,2025,Room_12,big,60831350511,Biology,0,NotAnulled
+61745895375,79,Polish,basic,2025,Room_2,big,60831350511,Biology,0,NotAnulled
+61745895375,80,English,basic,2025,Room_2,big,97238058536,Chemistry,0,NotAnulled
+61745895375,83,Biology,extended,2025,Room_13,big,18138552030,Polish,0,NotAnulled
+61745895375,84,Chemistry,extended,2025,Room_10,small,60831350511,Biology,0,NotAnulled
+61745895375,87,Polish,extended,2025,Room_9,small,99010112345,Physical Education,0,NotAnulled
+61745895375,88,English,extended,2025,Room_2,big,19150622889,History,0,NotAnulled
+61745895375,82,History,extended,2025,Room_21,big,73128415155,Chemistry,0,NotAnulled
+61745895375,86,Mathematics,extended,2025,Room_5,big,76846326096,Geography,0,NotAnulled
+92585177840,78,Mathematics,basic,2025,Room_12,big,15631219101,English,0,NotAnulled
+92585177840,79,Polish,basic,2025,Room_14,small,67239597077,Physics,0,NotAnulled
+92585177840,80,English,basic,2025,Room_5,big,18138552030,Polish,0,NotAnulled
+92585177840,84,Chemistry,extended,2025,Room_12,big,18138552030,Polish,0,NotAnulled
+24507337695,78,Mathematics,basic,2025,Room_4,big,19150622889,History,0,NotAnulled
+24507337695,79,Polish,basic,2025,Room_1,big,50945643201,Physics,0,NotAnulled
+24507337695,80,English,basic,2025,Room_17,big,75425501819,Polish,0,NotAnulled
+24507337695,83,Biology,extended,2025,Room_5,big,88515543667,Mathematics,0,NotAnulled
+54613615242,78,Mathematics,basic,2025,Room_3,big,51973405392,Physics,0,NotAnulled
+54613615242,79,Polish,basic,2025,Room_18,small,67239597077,Physics,0,NotAnulled
+54613615242,80,English,basic,2025,Room_19,small,67239597077,Physics,0,NotAnulled
+54613615242,88,English,extended,2025,Room_13,big,67239597077,Physics,0,NotAnulled
+54613615242,81,Physics,extended,2025,Room_1,big,95635941509,Geography,0,NotAnulled
+54613615242,83,Biology,extended,2025,Room_18,small,19150622889,History,0,NotAnulled
+54613615242,87,Polish,extended,2025,Room_18,small,90391127449,Chemistry,0,NotAnulled
+67323717950,78,Mathematics,basic,2025,Room_15,small,58175080694,History,0,NotAnulled
+67323717950,79,Polish,basic,2025,Room_7,small,7627861561,Biology,0,NotAnulled
+67323717950,80,English,basic,2025,Room_19,small,88515543667,Mathematics,0,NotAnulled
+67323717950,87,Polish,extended,2025,Room_5,big,24935803837,Geography,0,NotAnulled
+67323717950,85,Geography,extended,2025,Room_21,big,26437583152,Polish,0,NotAnulled
+67323717950,88,English,extended,2025,Room_17,big,67239597077,Physics,0,NotAnulled
+67323717950,82,History,extended,2025,Room_17,big,99010112345,Physical Education,0,NotAnulled
+67323717950,86,Mathematics,extended,2025,Room_19,small,73128415155,Chemistry,0,NotAnulled
+66882133671,78,Mathematics,basic,2025,Room_8,small,26437583152,Polish,0,NotAnulled
+66882133671,79,Polish,basic,2025,Room_13,big,52894468092,Geography,0,NotAnulled
+66882133671,80,English,basic,2025,Room_3,big,15187984005,Biology,0,NotAnulled
+66882133671,85,Geography,extended,2025,Room_20,small,19150622889,History,0,NotAnulled
+6471163015,78,Mathematics,basic,2025,Room_18,small,51937947921,Polish,0,NotAnulled
+6471163015,79,Polish,basic,2025,Room_2,big,88515543667,Mathematics,0,NotAnulled
+6471163015,80,English,basic,2025,Room_3,big,88515543667,Mathematics,0,NotAnulled
+6471163015,84,Chemistry,extended,2025,Room_9,small,23041778753,Physics,0,NotAnulled
+6471163015,81,Physics,extended,2025,Room_7,small,90391127449,Chemistry,0,NotAnulled
+6471163015,85,Geography,extended,2025,Room_16,small,51937947921,Polish,0,NotAnulled
+6471163015,88,English,extended,2025,Room_10,small,60831350511,Biology,0,NotAnulled
+6471163015,87,Polish,extended,2025,Room_3,big,81359177700,Geography,0,NotAnulled
+55709465700,78,Mathematics,basic,2025,Room_12,big,23041778753,Physics,0,NotAnulled
+55709465700,79,Polish,basic,2025,Room_12,big,15631219101,English,0,NotAnulled
+55709465700,80,English,basic,2025,Room_5,big,24935803837,Geography,0,NotAnulled
+55709465700,81,Physics,extended,2025,Room_10,small,15631219101,English,0,NotAnulled
+55709465700,83,Biology,extended,2025,Room_5,big,73128415155,Chemistry,0,NotAnulled
+42854251432,78,Mathematics,basic,2025,Room_17,big,75425501819,Polish,0,NotAnulled
+42854251432,79,Polish,basic,2025,Room_3,big,15631219101,English,0,NotAnulled
+42854251432,80,English,basic,2025,Room_7,small,60831350511,Biology,0,NotAnulled
+42854251432,83,Biology,extended,2025,Room_15,small,81359177700,Geography,0,NotAnulled
+42854251432,82,History,extended,2025,Room_14,small,97238058536,Chemistry,0,NotAnulled
+42854251432,87,Polish,extended,2025,Room_21,big,52894468092,Geography,0,NotAnulled
+42854251432,88,English,extended,2025,Room_13,big,8717912686,Biology,0,NotAnulled
+42854251432,85,Geography,extended,2025,Room_13,big,99010112345,Physical Education,0,NotAnulled
+17373651487,78,Mathematics,basic,2025,Room_3,big,51973405392,Physics,0,NotAnulled
+17373651487,79,Polish,basic,2025,Room_14,small,19150622889,History,0,NotAnulled
+17373651487,80,English,basic,2025,Room_7,small,23041778753,Physics,0,NotAnulled
+17373651487,82,History,extended,2025,Room_17,big,41025702129,English,0,NotAnulled
+17373651487,87,Polish,extended,2025,Room_21,big,52894468092,Geography,0,NotAnulled
+17373651487,84,Chemistry,extended,2025,Room_11,small,7627861561,Biology,0,NotAnulled
+17373651487,81,Physics,extended,2025,Room_14,small,75425501819,Polish,0,NotAnulled
+17373651487,85,Geography,extended,2025,Room_3,big,73128415155,Chemistry,0,NotAnulled
+17373651487,83,Biology,extended,2025,Room_21,big,99010112345,Physical Education,0,NotAnulled
+80496522440,78,Mathematics,basic,2025,Room_13,big,81359177700,Geography,0,NotAnulled
+80496522440,79,Polish,basic,2025,Room_5,big,73128415155,Chemistry,0,NotAnulled
+80496522440,80,English,basic,2025,Room_1,big,99010112345,Physical Education,0,NotAnulled
+80496522440,86,Mathematics,extended,2025,Room_5,big,81165531253,Geography,0,NotAnulled
+80496522440,85,Geography,extended,2025,Room_11,small,18138552030,Polish,0,NotAnulled
+80496522440,81,Physics,extended,2025,Room_13,big,19150622889,History,0,NotAnulled
+53005293161,78,Mathematics,basic,2025,Room_4,big,36952721923,Polish,0,NotAnulled
+53005293161,79,Polish,basic,2025,Room_1,big,97238058536,Chemistry,0,NotAnulled
+53005293161,80,English,basic,2025,Room_14,small,15187984005,Biology,0,NotAnulled
+53005293161,87,Polish,extended,2025,Room_16,small,51973405392,Physics,0,NotAnulled
+57369450472,78,Mathematics,basic,2025,Room_11,small,76846326096,Geography,0,NotAnulled
+57369450472,79,Polish,basic,2025,Room_18,small,95635941509,Geography,0,NotAnulled
+57369450472,80,English,basic,2025,Room_3,big,18138552030,Polish,0,NotAnulled
+57369450472,81,Physics,extended,2025,Room_3,big,41025702129,English,0,NotAnulled
+31128264805,78,Mathematics,basic,2025,Room_17,big,81165531253,Geography,0,NotAnulled
+31128264805,79,Polish,basic,2025,Room_14,small,97238058536,Chemistry,0,NotAnulled
+31128264805,80,English,basic,2025,Room_19,small,18138552030,Polish,0,NotAnulled
+31128264805,84,Chemistry,extended,2025,Room_14,small,67239597077,Physics,0,NotAnulled
+31128264805,85,Geography,extended,2025,Room_15,small,75425501819,Polish,0,NotAnulled
+31128264805,83,Biology,extended,2025,Room_12,big,81165531253,Geography,0,NotAnulled
+31128264805,87,Polish,extended,2025,Room_6,small,41025702129,English,0,NotAnulled
+31128264805,81,Physics,extended,2025,Room_14,small,88515543667,Mathematics,0,NotAnulled
+31128264805,82,History,extended,2025,Room_17,big,52894468092,Geography,0,NotAnulled
+98399371575,78,Mathematics,basic,2025,Room_21,big,75425501819,Polish,0,NotAnulled
+98399371575,79,Polish,basic,2025,Room_20,small,97238058536,Chemistry,0,NotAnulled
+98399371575,80,English,basic,2025,Room_9,small,19150622889,History,0,NotAnulled
+98399371575,88,English,extended,2025,Room_12,big,99010112345,Physical Education,0,NotAnulled
+98399371575,87,Polish,extended,2025,Room_7,small,24935803837,Geography,0,NotAnulled
+98399371575,81,Physics,extended,2025,Room_11,small,18138552030,Polish,0,NotAnulled
+98399371575,83,Biology,extended,2025,Room_17,big,36952721923,Polish,0,NotAnulled
+98399371575,86,Mathematics,extended,2025,Room_9,small,76846326096,Geography,0,NotAnulled
+98399371575,84,Chemistry,extended,2025,Room_13,big,60831350511,Biology,0,NotAnulled
+22924792780,78,Mathematics,basic,2025,Room_8,small,15631219101,English,0,NotAnulled
+22924792780,79,Polish,basic,2025,Room_8,small,15631219101,English,0,NotAnulled
+22924792780,80,English,basic,2025,Room_2,big,18138552030,Polish,0,NotAnulled
+22924792780,88,English,extended,2025,Room_13,big,26437583152,Polish,0,NotAnulled
+92173903959,78,Mathematics,basic,2025,Room_19,small,50945643201,Physics,0,NotAnulled
+92173903959,79,Polish,basic,2025,Room_3,big,81165531253,Geography,0,NotAnulled
+92173903959,80,English,basic,2025,Room_16,small,23041778753,Physics,0,NotAnulled
+92173903959,82,History,extended,2025,Room_10,small,24935803837,Geography,0,NotAnulled
+59706100663,78,Mathematics,basic,2025,Room_17,big,81359177700,Geography,0,NotAnulled
+59706100663,79,Polish,basic,2025,Room_15,small,7627861561,Biology,0,NotAnulled
+59706100663,80,English,basic,2025,Room_8,small,58175080694,History,0,NotAnulled
+59706100663,83,Biology,extended,2025,Room_16,small,23041778753,Physics,0,NotAnulled
+59706100663,88,English,extended,2025,Room_13,big,26437583152,Polish,0,NotAnulled
+2525394550,78,Mathematics,basic,2025,Room_17,big,67239597077,Physics,0,NotAnulled
+2525394550,79,Polish,basic,2025,Room_14,small,95635941509,Geography,0,NotAnulled
+2525394550,80,English,basic,2025,Room_14,small,18138552030,Polish,0,NotAnulled
+2525394550,87,Polish,extended,2025,Room_14,small,67239597077,Physics,0,NotAnulled
+2525394550,81,Physics,extended,2025,Room_5,big,36952721923,Polish,0,NotAnulled
+2525394550,88,English,extended,2025,Room_4,big,15187984005,Biology,0,NotAnulled
+2525394550,86,Mathematics,extended,2025,Room_5,big,99010112345,Physical Education,0,NotAnulled
+44626002081,78,Mathematics,basic,2025,Room_15,small,60831350511,Biology,0,NotAnulled
+44626002081,79,Polish,basic,2025,Room_16,small,76846326096,Geography,0,NotAnulled
+44626002081,80,English,basic,2025,Room_9,small,97238058536,Chemistry,0,NotAnulled
+44626002081,82,History,extended,2025,Room_15,small,52894468092,Geography,0,NotAnulled
+44626002081,87,Polish,extended,2025,Room_21,big,23041778753,Physics,0,NotAnulled
+94919020681,78,Mathematics,basic,2025,Room_17,big,73128415155,Chemistry,0,NotAnulled
+94919020681,79,Polish,basic,2025,Room_10,small,23041778753,Physics,0,NotAnulled
+94919020681,80,English,basic,2025,Room_12,big,60831350511,Biology,0,NotAnulled
+94919020681,83,Biology,extended,2025,Room_16,small,41025702129,English,0,NotAnulled
+94919020681,85,Geography,extended,2025,Room_16,small,67239597077,Physics,0,NotAnulled
+94919020681,86,Mathematics,extended,2025,Room_16,small,26437583152,Polish,0,NotAnulled
+94919020681,84,Chemistry,extended,2025,Room_14,small,75425501819,Polish,0,NotAnulled
+94919020681,81,Physics,extended,2025,Room_8,small,81165531253,Geography,0,NotAnulled
+94919020681,88,English,extended,2025,Room_3,big,90391127449,Chemistry,0,NotAnulled
+93479550435,78,Mathematics,basic,2025,Room_3,big,24935803837,Geography,0,NotAnulled
+93479550435,79,Polish,basic,2025,Room_7,small,15187984005,Biology,0,NotAnulled
+93479550435,80,English,basic,2025,Room_5,big,95635941509,Geography,0,NotAnulled
+93479550435,85,Geography,extended,2025,Room_19,small,97238058536,Chemistry,0,NotAnulled
+93479550435,86,Mathematics,extended,2025,Room_17,big,15187984005,Biology,0,NotAnulled
+93479550435,87,Polish,extended,2025,Room_20,small,99010112345,Physical Education,0,NotAnulled
+27642371444,78,Mathematics,basic,2025,Room_2,big,23041778753,Physics,0,NotAnulled
+27642371444,79,Polish,basic,2025,Room_8,small,81359177700,Geography,0,NotAnulled
+27642371444,80,English,basic,2025,Room_9,small,7627861561,Biology,0,NotAnulled
+27642371444,81,Physics,extended,2025,Room_21,big,81359177700,Geography,0,NotAnulled
+27642371444,82,History,extended,2025,Room_13,big,18138552030,Polish,0,NotAnulled
+27642371444,86,Mathematics,extended,2025,Room_6,small,75425501819,Polish,0,NotAnulled
+27642371444,83,Biology,extended,2025,Room_6,small,26437583152,Polish,0,NotAnulled
+27642371444,84,Chemistry,extended,2025,Room_11,small,23041778753,Physics,0,NotAnulled
+11970716416,78,Mathematics,basic,2025,Room_12,big,7627861561,Biology,0,NotAnulled
+11970716416,79,Polish,basic,2025,Room_6,small,58175080694,History,0,NotAnulled
+11970716416,80,English,basic,2025,Room_7,small,81165531253,Geography,0,NotAnulled
+11970716416,88,English,extended,2025,Room_12,big,52894468092,Geography,0,NotAnulled
+11970716416,87,Polish,extended,2025,Room_10,small,99010112345,Physical Education,0,NotAnulled
+11970716416,84,Chemistry,extended,2025,Room_11,small,51937947921,Polish,0,NotAnulled
+11970716416,82,History,extended,2025,Room_20,small,99010112345,Physical Education,0,NotAnulled
+11970716416,83,Biology,extended,2025,Room_4,big,58175080694,History,0,NotAnulled
+11970716416,86,Mathematics,extended,2025,Room_2,big,19150622889,History,0,NotAnulled
+35593921112,78,Mathematics,basic,2025,Room_3,big,8717912686,Biology,0,NotAnulled
+35593921112,79,Polish,basic,2025,Room_13,big,73128415155,Chemistry,0,NotAnulled
+35593921112,80,English,basic,2025,Room_5,big,18138552030,Polish,0,NotAnulled
+35593921112,87,Polish,extended,2025,Room_6,small,8717912686,Biology,0,NotAnulled
+35593921112,81,Physics,extended,2025,Room_16,small,51937947921,Polish,0,NotAnulled
+35593921112,85,Geography,extended,2025,Room_19,small,99010112345,Physical Education,0,NotAnulled
+82574551503,78,Mathematics,basic,2025,Room_2,big,23041778753,Physics,0,NotAnulled
+82574551503,79,Polish,basic,2025,Room_1,big,67239597077,Physics,0,NotAnulled
+82574551503,80,English,basic,2025,Room_1,big,60831350511,Biology,0,NotAnulled
+82574551503,82,History,extended,2025,Room_20,small,50945643201,Physics,0,NotAnulled
+82574551503,87,Polish,extended,2025,Room_19,small,76846326096,Geography,0,NotAnulled
+82574551503,85,Geography,extended,2025,Room_18,small,67239597077,Physics,0,NotAnulled
+82574551503,81,Physics,extended,2025,Room_2,big,58175080694,History,0,NotAnulled
+82574551503,86,Mathematics,extended,2025,Room_21,big,41025702129,English,0,NotAnulled
+80935166368,78,Mathematics,basic,2025,Room_9,small,81165531253,Geography,0,NotAnulled
+80935166368,79,Polish,basic,2025,Room_4,big,97238058536,Chemistry,0,NotAnulled
+80935166368,80,English,basic,2025,Room_4,big,51973405392,Physics,0,NotAnulled
+80935166368,84,Chemistry,extended,2025,Room_16,small,50945643201,Physics,0,NotAnulled
+80935166368,85,Geography,extended,2025,Room_21,big,51937947921,Polish,0,NotAnulled
+77598332811,78,Mathematics,basic,2025,Room_20,small,7627861561,Biology,0,NotAnulled
+77598332811,79,Polish,basic,2025,Room_10,small,23041778753,Physics,0,NotAnulled
+77598332811,80,English,basic,2025,Room_1,big,51937947921,Polish,0,NotAnulled
+77598332811,88,English,extended,2025,Room_21,big,26437583152,Polish,0,NotAnulled
+77598332811,84,Chemistry,extended,2025,Room_18,small,67239597077,Physics,0,NotAnulled
+77598332811,83,Biology,extended,2025,Room_17,big,52894468092,Geography,0,NotAnulled
+77598332811,86,Mathematics,extended,2025,Room_4,big,75425501819,Polish,0,NotAnulled
+48145463100,78,Mathematics,basic,2025,Room_18,small,81165531253,Geography,0,NotAnulled
+48145463100,79,Polish,basic,2025,Room_21,big,15631219101,English,0,NotAnulled
+48145463100,80,English,basic,2025,Room_1,big,67239597077,Physics,0,NotAnulled
+48145463100,88,English,extended,2025,Room_4,big,73128415155,Chemistry,0,NotAnulled
+48145463100,86,Mathematics,extended,2025,Room_10,small,51937947921,Polish,0,NotAnulled
+48145463100,84,Chemistry,extended,2025,Room_5,big,81359177700,Geography,0,NotAnulled
+48145463100,83,Biology,extended,2025,Room_1,big,90391127449,Chemistry,0,NotAnulled
+48145463100,81,Physics,extended,2025,Room_1,big,15187984005,Biology,0,NotAnulled
+70015899781,78,Mathematics,basic,2025,Room_19,small,76846326096,Geography,0,NotAnulled
+70015899781,79,Polish,basic,2025,Room_1,big,24935803837,Geography,0,NotAnulled
+70015899781,80,English,basic,2025,Room_2,big,15187984005,Biology,0,NotAnulled
+70015899781,81,Physics,extended,2025,Room_3,big,18138552030,Polish,0,NotAnulled
+70015899781,85,Geography,extended,2025,Room_14,small,99010112345,Physical Education,0,NotAnulled
+70015899781,82,History,extended,2025,Room_15,small,97238058536,Chemistry,0,NotAnulled
+70015899781,83,Biology,extended,2025,Room_11,small,41025702129,Physical Education,1,Anulled
+70015899781,88,English,extended,2025,Room_3,big,90391127449,Chemistry,0,NotAnulled
+45268730153,78,Mathematics,basic,2025,Room_9,small,81359177700,Geography,0,NotAnulled
+45268730153,79,Polish,basic,2025,Room_5,big,50945643201,Physics,0,NotAnulled
+45268730153,80,English,basic,2025,Room_15,small,23041778753,Physics,0,NotAnulled
+45268730153,85,Geography,extended,2025,Room_2,big,23041778753,Physics,0,NotAnulled
+45268730153,83,Biology,extended,2025,Room_3,big,18138552030,Polish,0,NotAnulled
+45268730153,86,Mathematics,extended,2025,Room_1,big,99010112345,Physical Education,0,NotAnulled
+45268730153,84,Chemistry,extended,2025,Room_5,big,67239597077,Physics,0,NotAnulled
+45268730153,81,Physics,extended,2025,Room_1,big,15631219101,English,0,NotAnulled
+71403676135,78,Mathematics,basic,2025,Room_10,small,51973405392,Physics,0,NotAnulled
+71403676135,79,Polish,basic,2025,Room_17,big,76846326096,Geography,0,NotAnulled
+71403676135,80,English,basic,2025,Room_12,big,75425501819,Polish,0,NotAnulled
+71403676135,84,Chemistry,extended,2025,Room_1,big,81165531253,Geography,0,NotAnulled
+71403676135,86,Mathematics,extended,2025,Room_5,big,81165531253,Geography,0,NotAnulled
+71403676135,81,Physics,extended,2025,Room_18,small,8717912686,Biology,0,NotAnulled
+71403676135,88,English,extended,2025,Room_12,big,24935803837,Geography,0,NotAnulled
+71403676135,85,Geography,extended,2025,Room_8,small,15187984005,Biology,0,NotAnulled
+71403676135,82,History,extended,2025,Room_14,small,60831350511,Biology,0,NotAnulled
+85979246573,78,Mathematics,basic,2025,Room_21,big,15631219101,English,0,NotAnulled
+85979246573,79,Polish,basic,2025,Room_16,small,81359177700,Geography,0,NotAnulled
+85979246573,80,English,basic,2025,Room_12,big,73128415155,Chemistry,0,NotAnulled
+85979246573,81,Physics,extended,2025,Room_3,big,7627861561,Biology,0,NotAnulled
+85979246573,82,History,extended,2025,Room_9,small,8717912686,Biology,0,NotAnulled
+66902032538,78,Mathematics,basic,2025,Room_5,big,50945643201,Physics,0,NotAnulled
+66902032538,79,Polish,basic,2025,Room_16,small,23041778753,Physics,0,NotAnulled
+66902032538,80,English,basic,2025,Room_21,big,88515543667,Mathematics,0,NotAnulled
+66902032538,82,History,extended,2025,Room_16,small,15187984005,Biology,0,NotAnulled
+66902032538,88,English,extended,2025,Room_21,big,19150622889,History,0,NotAnulled
+66902032538,85,Geography,extended,2025,Room_3,big,41025702129,English,0,NotAnulled
+66902032538,81,Physics,extended,2025,Room_18,small,52894468092,Geography,0,NotAnulled
+66902032538,84,Chemistry,extended,2025,Room_17,big,26437583152,Polish,0,NotAnulled
+36366756479,78,Mathematics,basic,2025,Room_1,big,81359177700,Geography,0,NotAnulled
+36366756479,79,Polish,basic,2025,Room_13,big,19150622889,History,0,NotAnulled
+36366756479,80,English,basic,2025,Room_18,small,67239597077,Physics,0,NotAnulled
+36366756479,88,English,extended,2025,Room_9,small,58175080694,History,0,NotAnulled
+36366756479,81,Physics,extended,2025,Room_5,big,41025702129,English,0,NotAnulled
+6986874455,78,Mathematics,basic,2025,Room_19,small,36952721923,Polish,0,NotAnulled
+6986874455,79,Polish,basic,2025,Room_3,big,58175080694,History,0,NotAnulled
+6986874455,80,English,basic,2025,Room_13,big,99010112345,Physical Education,0,NotAnulled
+6986874455,83,Biology,extended,2025,Room_1,big,67239597077,Physics,0,NotAnulled
+6986874455,87,Polish,extended,2025,Room_21,big,50945643201,Physics,0,NotAnulled
+6986874455,86,Mathematics,extended,2025,Room_10,small,73128415155,Chemistry,0,NotAnulled
+6986874455,88,English,extended,2025,Room_17,big,95635941509,Geography,0,NotAnulled
+30699325392,78,Mathematics,basic,2025,Room_1,big,51937947921,Polish,0,NotAnulled
+30699325392,79,Polish,basic,2025,Room_5,big,97238058536,Chemistry,0,NotAnulled
+30699325392,80,English,basic,2025,Room_18,small,36952721923,Polish,0,NotAnulled
+30699325392,84,Chemistry,extended,2025,Room_9,small,60831350511,Biology,0,NotAnulled
+30699325392,81,Physics,extended,2025,Room_4,big,18138552030,Polish,0,NotAnulled
+30699325392,85,Geography,extended,2025,Room_17,big,99010112345,Physical Education,0,NotAnulled
+30699325392,88,English,extended,2025,Room_5,big,24935803837,Geography,0,NotAnulled
+57704555442,78,Mathematics,basic,2025,Room_12,big,52894468092,Geography,0,NotAnulled
+57704555442,79,Polish,basic,2025,Room_5,big,51973405392,Physics,0,NotAnulled
+57704555442,80,English,basic,2025,Room_12,big,23041778753,Physics,0,NotAnulled
+57704555442,84,Chemistry,extended,2025,Room_1,big,36952721923,Polish,0,NotAnulled
+57704555442,85,Geography,extended,2025,Room_5,big,90391127449,Chemistry,0,NotAnulled
+57704555442,82,History,extended,2025,Room_10,small,76846326096,Geography,0,NotAnulled
+57704555442,81,Physics,extended,2025,Room_3,big,75425501819,Polish,0,NotAnulled
+57704555442,87,Polish,extended,2025,Room_3,big,81165531253,Geography,0,NotAnulled
+57704555442,86,Mathematics,extended,2025,Room_1,big,36952721923,Polish,0,NotAnulled
+86176060044,78,Mathematics,basic,2025,Room_18,small,73128415155,Chemistry,0,NotAnulled
+86176060044,79,Polish,basic,2025,Room_9,small,88515543667,Mathematics,0,NotAnulled
+86176060044,80,English,basic,2025,Room_19,small,90391127449,Chemistry,0,NotAnulled
+86176060044,84,Chemistry,extended,2025,Room_5,big,75425501819,Polish,0,NotAnulled
+86176060044,86,Mathematics,extended,2025,Room_8,small,19150622889,History,0,NotAnulled
+86176060044,82,History,extended,2025,Room_4,big,88515543667,Mathematics,0,NotAnulled
+86176060044,87,Polish,extended,2025,Room_8,small,58175080694,History,0,NotAnulled
+86176060044,85,Geography,extended,2025,Room_7,small,73128415155,Chemistry,0,NotAnulled
+42192516221,78,Mathematics,basic,2025,Room_4,big,75425501819,Polish,0,NotAnulled
+42192516221,79,Polish,basic,2025,Room_12,big,24935803837,Geography,0,NotAnulled
+42192516221,80,English,basic,2025,Room_12,big,75425501819,Polish,0,NotAnulled
+42192516221,84,Chemistry,extended,2025,Room_17,big,23041778753,Physics,0,NotAnulled
+42192516221,81,Physics,extended,2025,Room_2,big,41025702129,English,0,NotAnulled
+32647044029,78,Mathematics,basic,2025,Room_14,small,15187984005,Biology,0,NotAnulled
+32647044029,79,Polish,basic,2025,Room_5,big,19150622889,History,0,NotAnulled
+32647044029,80,English,basic,2025,Room_12,big,26437583152,Polish,0,NotAnulled
+32647044029,84,Chemistry,extended,2025,Room_18,small,81359177700,Geography,0,NotAnulled
+32647044029,81,Physics,extended,2025,Room_20,small,18138552030,Polish,0,NotAnulled
+32647044029,82,History,extended,2025,Room_5,big,88515543667,Mathematics,0,NotAnulled
+32647044029,88,English,extended,2025,Room_1,big,81359177700,Geography,0,NotAnulled
+824272995,78,Mathematics,basic,2025,Room_7,small,23041778753,Physics,0,NotAnulled
+824272995,79,Polish,basic,2025,Room_11,small,41025702129,English,0,NotAnulled
+824272995,80,English,basic,2025,Room_15,small,67239597077,Physics,0,NotAnulled
+824272995,87,Polish,extended,2025,Room_17,big,19150622889,History,0,NotAnulled
+824272995,81,Physics,extended,2025,Room_8,small,75425501819,Polish,0,NotAnulled
+66418060182,78,Mathematics,basic,2025,Room_18,small,81165531253,Geography,0,NotAnulled
+66418060182,79,Polish,basic,2025,Room_9,small,99010112345,Physical Education,0,NotAnulled
+66418060182,80,English,basic,2025,Room_20,small,18138552030,Polish,0,NotAnulled
+66418060182,88,English,extended,2025,Room_18,small,51973405392,Physics,0,NotAnulled
+66418060182,82,History,extended,2025,Room_7,small,36952721923,Polish,0,NotAnulled
+25928733600,78,Mathematics,basic,2025,Room_21,big,7627861561,Biology,0,NotAnulled
+25928733600,79,Polish,basic,2025,Room_13,big,50945643201,Physics,0,NotAnulled
+25928733600,80,English,basic,2025,Room_9,small,8717912686,Biology,0,NotAnulled
+25928733600,86,Mathematics,extended,2025,Room_3,big,24935803837,Geography,0,NotAnulled
+25928733600,87,Polish,extended,2025,Room_18,small,67239597077,Physics,0,NotAnulled
+25928733600,83,Biology,extended,2025,Room_11,small,23041778753,Physical Education,1,Anulled
+37810908587,78,Mathematics,basic,2025,Room_11,small,76846326096,Geography,0,NotAnulled
+37810908587,79,Polish,basic,2025,Room_2,big,99010112345,Physical Education,0,NotAnulled
+37810908587,80,English,basic,2025,Room_9,small,51973405392,Physics,0,NotAnulled
+37810908587,86,Mathematics,extended,2025,Room_1,big,8717912686,Biology,0,NotAnulled
+37810908587,88,English,extended,2025,Room_2,big,51937947921,Polish,0,NotAnulled
+7956517210,78,Mathematics,basic,2025,Room_15,small,51937947921,Polish,0,NotAnulled
+7956517210,79,Polish,basic,2025,Room_19,small,8717912686,Biology,0,NotAnulled
+7956517210,80,English,basic,2025,Room_3,big,19150622889,History,0,NotAnulled
+7956517210,85,Geography,extended,2025,Room_13,big,60831350511,Biology,0,NotAnulled
+7956517210,84,Chemistry,extended,2025,Room_12,big,7627861561,Biology,0,NotAnulled
+4380474701,78,Mathematics,basic,2025,Room_13,big,18138552030,Polish,0,NotAnulled
+4380474701,79,Polish,basic,2025,Room_2,big,51973405392,Physics,0,NotAnulled
+4380474701,80,English,basic,2025,Room_15,small,75425501819,Polish,0,NotAnulled
+4380474701,81,Physics,extended,2025,Room_18,small,88515543667,Mathematics,0,NotAnulled
+4380474701,87,Polish,extended,2025,Room_14,small,81165531253,Geography,0,NotAnulled
+4380474701,85,Geography,extended,2025,Room_21,big,58175080694,History,0,NotAnulled
+4380474701,82,History,extended,2025,Room_20,small,41025702129,English,0,NotAnulled
+41238556890,78,Mathematics,basic,2025,Room_18,small,99010112345,Physical Education,0,NotAnulled
+41238556890,79,Polish,basic,2025,Room_2,big,7627861561,Biology,0,NotAnulled
+41238556890,80,English,basic,2025,Room_14,small,23041778753,Physics,0,NotAnulled
+41238556890,84,Chemistry,extended,2025,Room_15,small,41025702129,English,0,NotAnulled
+41238556890,83,Biology,extended,2025,Room_15,small,97238058536,Chemistry,0,NotAnulled
+41238556890,85,Geography,extended,2025,Room_9,small,97238058536,Chemistry,0,NotAnulled
+41238556890,82,History,extended,2025,Room_17,big,15187984005,Biology,0,NotAnulled
+41238556890,87,Polish,extended,2025,Room_17,big,95635941509,Geography,0,NotAnulled
+91755251411,78,Mathematics,basic,2025,Room_19,small,76846326096,Geography,0,NotAnulled
+91755251411,79,Polish,basic,2025,Room_20,small,52894468092,Geography,0,NotAnulled
+91755251411,80,English,basic,2025,Room_8,small,51973405392,Physics,0,NotAnulled
+91755251411,82,History,extended,2025,Room_11,small,81359177700,Geography,0,NotAnulled
+91755251411,81,Physics,extended,2025,Room_17,big,73128415155,Chemistry,0,NotAnulled
+30668472351,78,Mathematics,basic,2025,Room_13,big,7627861561,Biology,0,NotAnulled
+30668472351,79,Polish,basic,2025,Room_9,small,15631219101,English,0,NotAnulled
+30668472351,80,English,basic,2025,Room_2,big,75425501819,Polish,0,NotAnulled
+30668472351,86,Mathematics,extended,2025,Room_15,small,41025702129,English,0,NotAnulled
+30668472351,82,History,extended,2025,Room_20,small,24935803837,Geography,0,NotAnulled
+16891829129,78,Mathematics,basic,2025,Room_4,big,41025702129,English,0,NotAnulled
+16891829129,79,Polish,basic,2025,Room_5,big,50945643201,Physics,0,NotAnulled
+16891829129,80,English,basic,2025,Room_7,small,90391127449,Chemistry,0,NotAnulled
+16891829129,81,Physics,extended,2025,Room_12,big,41025702129,English,0,NotAnulled
+16891829129,86,Mathematics,extended,2025,Room_10,small,23041778753,Physics,0,NotAnulled
+16891829129,84,Chemistry,extended,2025,Room_14,small,24935803837,Geography,0,NotAnulled
+16891829129,85,Geography,extended,2025,Room_4,big,97238058536,Chemistry,0,NotAnulled
+16891829129,87,Polish,extended,2025,Room_16,small,50945643201,Physics,0,NotAnulled
+72720477670,78,Mathematics,basic,2025,Room_4,big,58175080694,History,0,NotAnulled
+72720477670,79,Polish,basic,2025,Room_6,small,41025702129,English,0,NotAnulled
+72720477670,80,English,basic,2025,Room_18,small,15187984005,Biology,0,NotAnulled
+72720477670,85,Geography,extended,2025,Room_12,big,58175080694,History,0,NotAnulled
+72720477670,83,Biology,extended,2025,Room_10,small,76846326096,Geography,0,NotAnulled
+72720477670,81,Physics,extended,2025,Room_6,small,76846326096,Geography,0,NotAnulled
+72720477670,84,Chemistry,extended,2025,Room_11,small,67239597077,Physics,0,NotAnulled
+82626910942,78,Mathematics,basic,2025,Room_8,small,50945643201,Physics,0,NotAnulled
+82626910942,79,Polish,basic,2025,Room_7,small,90391127449,Chemistry,0,NotAnulled
+82626910942,80,English,basic,2025,Room_4,big,36952721923,Polish,0,NotAnulled
+82626910942,81,Physics,extended,2025,Room_8,small,95635941509,Geography,0,NotAnulled
+82626910942,82,History,extended,2025,Room_16,small,97238058536,Chemistry,0,NotAnulled
+82626910942,88,English,extended,2025,Room_17,big,8717912686,Biology,0,NotAnulled
+82626910942,86,Mathematics,extended,2025,Room_9,small,81165531253,Geography,0,NotAnulled
+27586012307,78,Mathematics,basic,2025,Room_20,small,18138552030,Polish,0,NotAnulled
+27586012307,79,Polish,basic,2025,Room_6,small,58175080694,History,0,NotAnulled
+27586012307,80,English,basic,2025,Room_11,small,99010112345,Physical Education,0,NotAnulled
+27586012307,82,History,extended,2025,Room_16,small,81359177700,Geography,0,NotAnulled
+27586012307,83,Biology,extended,2025,Room_5,big,88515543667,Mathematics,0,NotAnulled
+38525527977,78,Mathematics,basic,2025,Room_13,big,19150622889,History,0,NotAnulled
+38525527977,79,Polish,basic,2025,Room_16,small,81359177700,Geography,0,NotAnulled
+38525527977,80,English,basic,2025,Room_12,big,19150622889,History,0,NotAnulled
+38525527977,87,Polish,extended,2025,Room_9,small,67239597077,Physics,0,NotAnulled
+6826768674,78,Mathematics,basic,2025,Room_11,small,8717912686,Biology,0,NotAnulled
+6826768674,79,Polish,basic,2025,Room_15,small,7627861561,Biology,0,NotAnulled
+6826768674,80,English,basic,2025,Room_2,big,26437583152,Polish,0,NotAnulled
+6826768674,84,Chemistry,extended,2025,Room_1,big,52894468092,Geography,0,NotAnulled
+16959584152,78,Mathematics,basic,2025,Room_1,big,67239597077,Physics,0,NotAnulled
+16959584152,79,Polish,basic,2025,Room_18,small,67239597077,Physics,0,NotAnulled
+16959584152,80,English,basic,2025,Room_5,big,67239597077,Physics,0,NotAnulled
+16959584152,86,Mathematics,extended,2025,Room_17,big,81165531253,Geography,0,NotAnulled
+16959584152,83,Biology,extended,2025,Room_16,small,19150622889,History,0,NotAnulled
+16959584152,81,Physics,extended,2025,Room_5,big,81359177700,Geography,0,NotAnulled
+16959584152,82,History,extended,2025,Room_2,big,90391127449,Chemistry,0,NotAnulled
+16959584152,87,Polish,extended,2025,Room_18,small,81165531253,Geography,0,NotAnulled
+16959584152,85,Geography,extended,2025,Room_20,small,73128415155,Chemistry,0,NotAnulled
+32997110375,78,Mathematics,basic,2025,Room_4,big,23041778753,Physics,0,NotAnulled
+32997110375,79,Polish,basic,2025,Room_3,big,15631219101,English,0,NotAnulled
+32997110375,80,English,basic,2025,Room_1,big,67239597077,Physics,0,NotAnulled
+32997110375,81,Physics,extended,2025,Room_20,small,75425501819,Polish,0,NotAnulled
+32997110375,85,Geography,extended,2025,Room_7,small,90391127449,Chemistry,0,NotAnulled
+32997110375,86,Mathematics,extended,2025,Room_12,big,15631219101,English,0,NotAnulled
+32997110375,87,Polish,extended,2025,Room_15,small,73128415155,Chemistry,0,NotAnulled
+21204134535,78,Mathematics,basic,2025,Room_4,big,41025702129,English,0,NotAnulled
+21204134535,79,Polish,basic,2025,Room_19,small,8717912686,Biology,0,NotAnulled
+21204134535,80,English,basic,2025,Room_12,big,81165531253,Geography,0,NotAnulled
+21204134535,84,Chemistry,extended,2025,Room_21,big,26437583152,Polish,0,NotAnulled
+21204134535,88,English,extended,2025,Room_5,big,52894468092,Geography,0,NotAnulled
+21204134535,86,Mathematics,extended,2025,Room_15,small,8717912686,Biology,0,NotAnulled
+21204134535,83,Biology,extended,2025,Room_6,small,95635941509,Geography,0,NotAnulled
+21204134535,82,History,extended,2025,Room_21,big,52894468092,Geography,0,NotAnulled
+21204134535,87,Polish,extended,2025,Room_1,big,81359177700,Geography,0,NotAnulled
+42182443065,78,Mathematics,basic,2025,Room_12,big,97238058536,Chemistry,0,NotAnulled
+42182443065,79,Polish,basic,2025,Room_8,small,88515543667,Mathematics,0,NotAnulled
+42182443065,80,English,basic,2025,Room_18,small,51937947921,Polish,0,NotAnulled
+42182443065,85,Geography,extended,2025,Room_14,small,90391127449,Chemistry,0,NotAnulled
+42182443065,88,English,extended,2025,Room_3,big,26437583152,Polish,0,NotAnulled
+42182443065,82,History,extended,2025,Room_11,small,97238058536,Chemistry,0,NotAnulled
+42182443065,81,Physics,extended,2025,Room_21,big,73128415155,Chemistry,0,NotAnulled
+42182443065,86,Mathematics,extended,2025,Room_13,big,81359177700,Geography,0,NotAnulled
+6896921784,78,Mathematics,basic,2025,Room_17,big,73128415155,Chemistry,0,NotAnulled
+6896921784,79,Polish,basic,2025,Room_18,small,23041778753,Physics,0,NotAnulled
+6896921784,80,English,basic,2025,Room_3,big,97238058536,Chemistry,0,NotAnulled
+6896921784,88,English,extended,2025,Room_20,small,97238058536,Chemistry,0,NotAnulled
+6896921784,86,Mathematics,extended,2025,Room_11,small,95635941509,Geography,0,NotAnulled
+6896921784,84,Chemistry,extended,2025,Room_19,small,50945643201,Physics,0,NotAnulled
+6896921784,85,Geography,extended,2025,Room_12,big,26437583152,Polish,0,NotAnulled
+6896921784,83,Biology,extended,2025,Room_7,small,24935803837,Geography,0,NotAnulled
+8335879883,78,Mathematics,basic,2025,Room_16,small,97238058536,Chemistry,0,NotAnulled
+8335879883,79,Polish,basic,2025,Room_1,big,41025702129,English,0,NotAnulled
+8335879883,80,English,basic,2025,Room_1,big,58175080694,History,0,NotAnulled
+8335879883,83,Biology,extended,2025,Room_11,small,23041778753,Physical Education,1,Anulled
+8335879883,87,Polish,extended,2025,Room_4,big,24935803837,Geography,0,NotAnulled
+8335879883,81,Physics,extended,2025,Room_20,small,88515543667,Mathematics,0,NotAnulled
+35389138229,78,Mathematics,basic,2025,Room_5,big,67239597077,Physics,0,NotAnulled
+35389138229,79,Polish,basic,2025,Room_11,small,19150622889,History,0,NotAnulled
+35389138229,80,English,basic,2025,Room_11,small,15187984005,Biology,0,NotAnulled
+35389138229,88,English,extended,2025,Room_21,big,76846326096,Geography,0,NotAnulled
+35389138229,87,Polish,extended,2025,Room_14,small,81359177700,Geography,0,NotAnulled
+35389138229,86,Mathematics,extended,2025,Room_9,small,36952721923,Polish,0,NotAnulled
+35389138229,85,Geography,extended,2025,Room_1,big,60831350511,Biology,0,NotAnulled
+35389138229,81,Physics,extended,2025,Room_21,big,19150622889,History,0,NotAnulled
+35389138229,82,History,extended,2025,Room_5,big,99010112345,Physical Education,0,NotAnulled
+98605936256,78,Mathematics,basic,2025,Room_18,small,51973405392,Physics,0,NotAnulled
+98605936256,79,Polish,basic,2025,Room_8,small,52894468092,Geography,0,NotAnulled
+98605936256,80,English,basic,2025,Room_11,small,99010112345,Physical Education,0,NotAnulled
+98605936256,82,History,extended,2025,Room_6,small,15631219101,English,0,NotAnulled
+98605936256,88,English,extended,2025,Room_20,small,51937947921,Polish,0,NotAnulled
+98605936256,85,Geography,extended,2025,Room_19,small,97238058536,Chemistry,0,NotAnulled
+98605936256,83,Biology,extended,2025,Room_9,small,81165531253,Geography,0,NotAnulled
+98605936256,86,Mathematics,extended,2025,Room_10,small,15631219101,English,0,NotAnulled
+73538660966,78,Mathematics,basic,2025,Room_19,small,51973405392,Physics,0,NotAnulled
+73538660966,79,Polish,basic,2025,Room_15,small,50945643201,Physics,0,NotAnulled
+73538660966,80,English,basic,2025,Room_8,small,76846326096,Geography,0,NotAnulled
+73538660966,83,Biology,extended,2025,Room_5,big,88515543667,Mathematics,0,NotAnulled
+73538660966,85,Geography,extended,2025,Room_7,small,99010112345,Physical Education,0,NotAnulled
+1668470325,78,Mathematics,basic,2025,Room_6,small,90391127449,Chemistry,0,NotAnulled
+1668470325,79,Polish,basic,2025,Room_8,small,8717912686,Biology,0,NotAnulled
+1668470325,80,English,basic,2025,Room_5,big,75425501819,Polish,0,NotAnulled
+1668470325,82,History,extended,2025,Room_15,small,52894468092,Geography,0,NotAnulled
+1668470325,86,Mathematics,extended,2025,Room_14,small,95635941509,Geography,0,NotAnulled
+1668470325,88,English,extended,2025,Room_17,big,15187984005,Biology,0,NotAnulled
+1668470325,84,Chemistry,extended,2025,Room_13,big,58175080694,History,0,NotAnulled
+1668470325,87,Polish,extended,2025,Room_14,small,73128415155,Chemistry,0,NotAnulled
+39752214518,78,Mathematics,basic,2025,Room_7,small,19150622889,History,0,NotAnulled
+39752214518,79,Polish,basic,2025,Room_18,small,76846326096,Geography,0,NotAnulled
+39752214518,80,English,basic,2025,Room_11,small,73128415155,Chemistry,0,NotAnulled
+39752214518,84,Chemistry,extended,2025,Room_1,big,76846326096,Geography,0,NotAnulled
+39752214518,82,History,extended,2025,Room_21,big,18138552030,Polish,0,NotAnulled
+39666000627,78,Mathematics,basic,2025,Room_11,small,67239597077,Physics,0,NotAnulled
+39666000627,79,Polish,basic,2025,Room_21,big,58175080694,History,0,NotAnulled
+39666000627,80,English,basic,2025,Room_13,big,52894468092,Geography,0,NotAnulled
+39666000627,87,Polish,extended,2025,Room_4,big,60831350511,Biology,0,NotAnulled
+39666000627,82,History,extended,2025,Room_5,big,15187984005,Biology,0,NotAnulled
+39666000627,88,English,extended,2025,Room_13,big,18138552030,Polish,0,NotAnulled
+39666000627,83,Biology,extended,2025,Room_2,big,52894468092,Geography,0,NotAnulled
+64063263190,78,Mathematics,basic,2025,Room_21,big,24935803837,Geography,0,NotAnulled
+64063263190,79,Polish,basic,2025,Room_21,big,7627861561,Biology,0,NotAnulled
+64063263190,80,English,basic,2025,Room_10,small,75425501819,Polish,0,NotAnulled
+64063263190,86,Mathematics,extended,2025,Room_1,big,50945643201,Physics,0,NotAnulled
+64063263190,82,History,extended,2025,Room_6,small,8717912686,Biology,0,NotAnulled
+64063263190,85,Geography,extended,2025,Room_8,small,88515543667,Mathematics,0,NotAnulled
+89192473014,78,Mathematics,basic,2025,Room_9,small,23041778753,Physics,0,NotAnulled
+89192473014,79,Polish,basic,2025,Room_13,big,60831350511,Biology,0,NotAnulled
+89192473014,80,English,basic,2025,Room_18,small,36952721923,Polish,0,NotAnulled
+89192473014,84,Chemistry,extended,2025,Room_21,big,24935803837,Geography,0,NotAnulled
+89192473014,86,Mathematics,extended,2025,Room_9,small,24935803837,Geography,0,NotAnulled
+12311285763,78,Mathematics,basic,2025,Room_15,small,36952721923,Polish,0,NotAnulled
+12311285763,79,Polish,basic,2025,Room_21,big,23041778753,Physics,0,NotAnulled
+12311285763,80,English,basic,2025,Room_2,big,36952721923,Polish,0,NotAnulled
+12311285763,82,History,extended,2025,Room_3,big,15631219101,English,0,NotAnulled
+12311285763,88,English,extended,2025,Room_5,big,18138552030,Polish,0,NotAnulled
+12311285763,86,Mathematics,extended,2025,Room_10,small,73128415155,Chemistry,0,NotAnulled
+12311285763,85,Geography,extended,2025,Room_17,big,97238058536,Chemistry,0,NotAnulled
+46562442549,78,Mathematics,basic,2025,Room_21,big,95635941509,Geography,0,NotAnulled
+46562442549,79,Polish,basic,2025,Room_15,small,99010112345,Physical Education,0,NotAnulled
+46562442549,80,English,basic,2025,Room_17,big,95635941509,Geography,0,NotAnulled
+46562442549,86,Mathematics,extended,2025,Room_8,small,41025702129,English,0,NotAnulled
+46562442549,82,History,extended,2025,Room_17,big,51973405392,Physics,0,NotAnulled
+46562442549,84,Chemistry,extended,2025,Room_11,small,7627861561,Biology,0,NotAnulled
+46562442549,87,Polish,extended,2025,Room_6,small,19150622889,History,0,NotAnulled
+16407811505,78,Mathematics,basic,2025,Room_8,small,26437583152,Polish,0,NotAnulled
+16407811505,79,Polish,basic,2025,Room_6,small,19150622889,History,0,NotAnulled
+16407811505,80,English,basic,2025,Room_19,small,97238058536,Chemistry,0,NotAnulled
+16407811505,84,Chemistry,extended,2025,Room_7,small,67239597077,Physics,0,NotAnulled
+16407811505,85,Geography,extended,2025,Room_5,big,7627861561,Biology,0,NotAnulled
+16407811505,81,Physics,extended,2025,Room_20,small,95635941509,Geography,0,NotAnulled
+16407811505,86,Mathematics,extended,2025,Room_19,small,73128415155,Chemistry,0,NotAnulled
+10764624787,78,Mathematics,basic,2025,Room_2,big,15187984005,Biology,0,NotAnulled
+10764624787,79,Polish,basic,2025,Room_17,big,19150622889,History,0,NotAnulled
+10764624787,80,English,basic,2025,Room_6,small,7627861561,Biology,0,NotAnulled
+10764624787,82,History,extended,2025,Room_21,big,75425501819,Polish,0,NotAnulled
+10764624787,81,Physics,extended,2025,Room_5,big,95635941509,Geography,0,NotAnulled
+10764624787,88,English,extended,2025,Room_12,big,58175080694,History,0,NotAnulled
+10764624787,87,Polish,extended,2025,Room_5,big,95635941509,Geography,0,NotAnulled
+10764624787,85,Geography,extended,2025,Room_19,small,15631219101,English,0,NotAnulled
+10764624787,86,Mathematics,extended,2025,Room_16,small,18138552030,Polish,0,NotAnulled
+76508090890,78,Mathematics,basic,2025,Room_1,big,52894468092,Geography,0,NotAnulled
+76508090890,79,Polish,basic,2025,Room_17,big,50945643201,Physics,0,NotAnulled
+76508090890,80,English,basic,2025,Room_17,big,26437583152,Polish,0,NotAnulled
+76508090890,84,Chemistry,extended,2025,Room_9,small,99010112345,Physical Education,0,NotAnulled
+76508090890,87,Polish,extended,2025,Room_4,big,73128415155,Chemistry,0,NotAnulled
+76508090890,82,History,extended,2025,Room_13,big,60831350511,Biology,0,NotAnulled
+76508090890,81,Physics,extended,2025,Room_3,big,52894468092,Geography,0,NotAnulled
+86123108643,78,Mathematics,basic,2025,Room_11,small,52894468092,Geography,0,NotAnulled
+86123108643,79,Polish,basic,2025,Room_12,big,23041778753,Physics,0,NotAnulled
+86123108643,80,English,basic,2025,Room_21,big,73128415155,Chemistry,0,NotAnulled
+86123108643,88,English,extended,2025,Room_17,big,99010112345,Physical Education,0,NotAnulled
+86123108643,85,Geography,extended,2025,Room_13,big,7627861561,Biology,0,NotAnulled
+86123108643,87,Polish,extended,2025,Room_2,big,76846326096,Geography,0,NotAnulled
+86123108643,81,Physics,extended,2025,Room_13,big,58175080694,History,0,NotAnulled
+86123108643,83,Biology,extended,2025,Room_12,big,19150622889,History,0,NotAnulled
+86123108643,86,Mathematics,extended,2025,Room_8,small,50945643201,Physics,0,NotAnulled
+89296748024,78,Mathematics,basic,2025,Room_10,small,26437583152,Polish,0,NotAnulled
+89296748024,79,Polish,basic,2025,Room_12,big,95635941509,Geography,0,NotAnulled
+89296748024,80,English,basic,2025,Room_21,big,81165531253,Geography,0,NotAnulled
+89296748024,86,Mathematics,extended,2025,Room_12,big,51937947921,Polish,0,NotAnulled
+89296748024,81,Physics,extended,2025,Room_19,small,52894468092,Geography,0,NotAnulled
+89296748024,88,English,extended,2025,Room_12,big,99010112345,Physical Education,0,NotAnulled
+89296748024,85,Geography,extended,2025,Room_3,big,51937947921,Polish,0,NotAnulled
+89296748024,82,History,extended,2025,Room_5,big,95635941509,Geography,0,NotAnulled
+89296748024,84,Chemistry,extended,2025,Room_2,big,88515543667,Mathematics,0,NotAnulled
+41353217617,78,Mathematics,basic,2025,Room_14,small,7627861561,Biology,0,NotAnulled
+41353217617,79,Polish,basic,2025,Room_15,small,88515543667,Mathematics,0,NotAnulled
+41353217617,80,English,basic,2025,Room_20,small,8717912686,Biology,0,NotAnulled
+41353217617,81,Physics,extended,2025,Room_16,small,26437583152,Polish,0,NotAnulled
+41353217617,88,English,extended,2025,Room_19,small,51937947921,Polish,0,NotAnulled
+41353217617,83,Biology,extended,2025,Room_1,big,81165531253,Geography,0,NotAnulled
+41353217617,86,Mathematics,extended,2025,Room_21,big,81359177700,Geography,0,NotAnulled
+41353217617,84,Chemistry,extended,2025,Room_9,small,23041778753,Physics,0,NotAnulled
+41353217617,85,Geography,extended,2025,Room_21,big,15187984005,Biology,0,NotAnulled
+30742613307,78,Mathematics,basic,2025,Room_6,small,15187984005,Biology,0,NotAnulled
+30742613307,79,Polish,basic,2025,Room_4,big,60831350511,Biology,0,NotAnulled
+30742613307,80,English,basic,2025,Room_2,big,58175080694,History,0,NotAnulled
+30742613307,81,Physics,extended,2025,Room_18,small,58175080694,History,0,NotAnulled
+30742613307,86,Mathematics,extended,2025,Room_2,big,73128415155,Chemistry,0,NotAnulled
+30742613307,85,Geography,extended,2025,Room_5,big,50945643201,Physics,0,NotAnulled
+30742613307,84,Chemistry,extended,2025,Room_19,small,81165531253,Geography,0,NotAnulled
+89466837585,78,Mathematics,basic,2025,Room_11,small,24935803837,Geography,0,NotAnulled
+89466837585,79,Polish,basic,2025,Room_16,small,50945643201,Physics,0,NotAnulled
+89466837585,80,English,basic,2025,Room_14,small,58175080694,History,0,NotAnulled
+89466837585,82,History,extended,2025,Room_1,big,52894468092,Geography,0,NotAnulled
+58779863181,78,Mathematics,basic,2025,Room_13,big,24935803837,Geography,0,NotAnulled
+58779863181,79,Polish,basic,2025,Room_8,small,95635941509,Geography,0,NotAnulled
+58779863181,80,English,basic,2025,Room_13,big,99010112345,Physical Education,0,NotAnulled
+58779863181,87,Polish,extended,2025,Room_7,small,97238058536,Chemistry,0,NotAnulled
+20337409373,78,Mathematics,basic,2025,Room_14,small,7627861561,Biology,0,NotAnulled
+20337409373,79,Polish,basic,2025,Room_16,small,99010112345,Physical Education,0,NotAnulled
+20337409373,80,English,basic,2025,Room_7,small,58175080694,History,0,NotAnulled
+20337409373,81,Physics,extended,2025,Room_17,big,76846326096,Geography,0,NotAnulled
+20337409373,88,English,extended,2025,Room_13,big,73128415155,Chemistry,0,NotAnulled
+20337409373,86,Mathematics,extended,2025,Room_20,small,51973405392,Physics,0,NotAnulled
+20337409373,82,History,extended,2025,Room_11,small,7627861561,Biology,0,NotAnulled
+46500617091,78,Mathematics,basic,2025,Room_17,big,99010112345,Physical Education,0,NotAnulled
+46500617091,79,Polish,basic,2025,Room_6,small,15631219101,English,0,NotAnulled
+46500617091,80,English,basic,2025,Room_16,small,67239597077,Physics,0,NotAnulled
+46500617091,87,Polish,extended,2025,Room_1,big,52894468092,Geography,0,NotAnulled
+46500617091,88,English,extended,2025,Room_1,big,19150622889,History,0,NotAnulled
+46500617091,85,Geography,extended,2025,Room_13,big,99010112345,Physical Education,0,NotAnulled
+46500617091,83,Biology,extended,2025,Room_8,small,67239597077,Physics,0,NotAnulled
+46500617091,81,Physics,extended,2025,Room_19,small,75425501819,Polish,0,NotAnulled
+49024888859,78,Mathematics,basic,2025,Room_17,big,97238058536,Chemistry,0,NotAnulled
+49024888859,79,Polish,basic,2025,Room_17,big,24935803837,Geography,0,NotAnulled
+49024888859,80,English,basic,2025,Room_13,big,52894468092,Geography,0,NotAnulled
+49024888859,87,Polish,extended,2025,Room_1,big,23041778753,Physics,0,NotAnulled
+49024888859,85,Geography,extended,2025,Room_20,small,15187984005,Biology,0,NotAnulled
+81107628854,78,Mathematics,basic,2025,Room_8,small,51973405392,Physics,0,NotAnulled
+81107628854,79,Polish,basic,2025,Room_12,big,76846326096,Geography,0,NotAnulled
+81107628854,80,English,basic,2025,Room_14,small,24935803837,Geography,0,NotAnulled
+81107628854,86,Mathematics,extended,2025,Room_9,small,97238058536,Chemistry,0,NotAnulled
+81107628854,88,English,extended,2025,Room_10,small,99010112345,Physical Education,0,NotAnulled
+81107628854,83,Biology,extended,2025,Room_12,big,51937947921,Polish,0,NotAnulled
+76979181380,78,Mathematics,basic,2025,Room_1,big,60831350511,Biology,0,NotAnulled
+76979181380,79,Polish,basic,2025,Room_21,big,41025702129,English,0,NotAnulled
+76979181380,80,English,basic,2025,Room_18,small,73128415155,Chemistry,0,NotAnulled
+76979181380,85,Geography,extended,2025,Room_11,small,15187984005,Biology,0,NotAnulled
+76979181380,86,Mathematics,extended,2025,Room_11,small,51937947921,Polish,0,NotAnulled
+76979181380,87,Polish,extended,2025,Room_21,big,19150622889,History,0,NotAnulled
+76979181380,84,Chemistry,extended,2025,Room_15,small,81359177700,Geography,0,NotAnulled
+76979181380,81,Physics,extended,2025,Room_12,big,7627861561,Biology,0,NotAnulled
+12484803271,78,Mathematics,basic,2025,Room_17,big,36952721923,Polish,0,NotAnulled
+12484803271,79,Polish,basic,2025,Room_9,small,73128415155,Chemistry,0,NotAnulled
+12484803271,80,English,basic,2025,Room_9,small,15187984005,Biology,0,NotAnulled
+12484803271,84,Chemistry,extended,2025,Room_12,big,15631219101,English,0,NotAnulled
+12484803271,87,Polish,extended,2025,Room_16,small,19150622889,History,0,NotAnulled
+12484803271,83,Biology,extended,2025,Room_15,small,95635941509,Geography,0,NotAnulled
+12484803271,88,English,extended,2025,Room_8,small,67239597077,Physics,0,NotAnulled
+12484803271,85,Geography,extended,2025,Room_1,big,23041778753,Physics,0,NotAnulled
+12484803271,82,History,extended,2025,Room_10,small,18138552030,Polish,0,NotAnulled
+5019768628,78,Mathematics,basic,2025,Room_1,big,51973405392,Physics,0,NotAnulled
+5019768628,79,Polish,basic,2025,Room_4,big,99010112345,Physical Education,0,NotAnulled
+5019768628,80,English,basic,2025,Room_11,small,99010112345,Physical Education,0,NotAnulled
+5019768628,86,Mathematics,extended,2025,Room_19,small,97238058536,Chemistry,0,NotAnulled
+5019768628,84,Chemistry,extended,2025,Room_9,small,60831350511,Biology,0,NotAnulled
+5019768628,88,English,extended,2025,Room_6,small,52894468092,Geography,0,NotAnulled
+18297238353,78,Mathematics,basic,2025,Room_15,small,60831350511,Biology,0,NotAnulled
+18297238353,79,Polish,basic,2025,Room_4,big,15187984005,Biology,0,NotAnulled
+18297238353,80,English,basic,2025,Room_6,small,95635941509,Geography,0,NotAnulled
+18297238353,84,Chemistry,extended,2025,Room_2,big,24935803837,Geography,0,NotAnulled
+18297238353,81,Physics,extended,2025,Room_12,big,60831350511,Biology,0,NotAnulled
+18297238353,86,Mathematics,extended,2025,Room_14,small,26437583152,Polish,0,NotAnulled
+18297238353,85,Geography,extended,2025,Room_19,small,18138552030,Polish,0,NotAnulled
+18297238353,88,English,extended,2025,Room_15,small,58175080694,History,0,NotAnulled
+18297238353,87,Polish,extended,2025,Room_17,big,99010112345,Physical Education,0,NotAnulled
+81377791207,78,Mathematics,basic,2025,Room_13,big,97238058536,Chemistry,0,NotAnulled
+81377791207,79,Polish,basic,2025,Room_1,big,95635941509,Geography,0,NotAnulled
+81377791207,80,English,basic,2025,Room_1,big,36952721923,Polish,0,NotAnulled
+81377791207,82,History,extended,2025,Room_16,small,99010112345,Physical Education,0,NotAnulled
+81377791207,85,Geography,extended,2025,Room_17,big,88515543667,Mathematics,0,NotAnulled
+81377791207,87,Polish,extended,2025,Room_1,big,99010112345,Physical Education,0,NotAnulled
+67317642545,78,Mathematics,basic,2025,Room_4,big,52894468092,Geography,0,NotAnulled
+67317642545,79,Polish,basic,2025,Room_15,small,15187984005,Biology,0,NotAnulled
+67317642545,80,English,basic,2025,Room_17,big,99010112345,Physical Education,0,NotAnulled
+67317642545,88,English,extended,2025,Room_7,small,15187984005,Biology,0,NotAnulled
+67317642545,84,Chemistry,extended,2025,Room_12,big,23041778753,Physics,0,NotAnulled
+67317642545,86,Mathematics,extended,2025,Room_9,small,58175080694,History,0,NotAnulled
+67317642545,85,Geography,extended,2025,Room_10,small,73128415155,Chemistry,0,NotAnulled
+37718926551,78,Mathematics,basic,2025,Room_10,small,15187984005,Biology,0,NotAnulled
+37718926551,79,Polish,basic,2025,Room_17,big,15631219101,English,0,NotAnulled
+37718926551,80,English,basic,2025,Room_11,small,7627861561,Biology,0,NotAnulled
+37718926551,83,Biology,extended,2025,Room_10,small,58175080694,History,0,NotAnulled
+37718926551,88,English,extended,2025,Room_18,small,60831350511,Biology,0,NotAnulled
+37718926551,84,Chemistry,extended,2025,Room_13,big,67239597077,Physics,0,NotAnulled
+37718926551,86,Mathematics,extended,2025,Room_15,small,23041778753,Physics,0,NotAnulled
+37718926551,81,Physics,extended,2025,Room_1,big,75425501819,Polish,0,NotAnulled
+56393776714,78,Mathematics,basic,2025,Room_16,small,23041778753,Physics,0,NotAnulled
+56393776714,79,Polish,basic,2025,Room_7,small,76846326096,Geography,0,NotAnulled
+56393776714,80,English,basic,2025,Room_19,small,81359177700,Geography,0,NotAnulled
+56393776714,87,Polish,extended,2025,Room_17,big,67239597077,Physics,0,NotAnulled
+56393776714,81,Physics,extended,2025,Room_21,big,75425501819,Polish,0,NotAnulled
+56393776714,88,English,extended,2025,Room_3,big,52894468092,Geography,0,NotAnulled
+5929661962,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+22119467003,69,English,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+7353187978,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+40571370189,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+66394364655,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+81945420158,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+36710552676,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+36710552676,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+29314236296,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+50050443078,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+50050443078,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+12542956768,69,English,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+97459308878,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+97459308878,69,English,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+49731281536,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+44235132986,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+44128291626,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+44128291626,69,English,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+71420919246,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+84562126212,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+57068034937,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+79565949451,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+82161492315,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+67138317206,69,English,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+32682148877,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+32682148877,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+12891691874,69,English,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+28507860648,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+28507860648,69,English,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+35569315844,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+75190659409,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+26524124987,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+67312758793,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+19952924368,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+19952924368,69,English,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+61568827151,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+61568827151,69,English,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+7484344079,69,English,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+93308010532,69,English,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+78203891838,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+10108615896,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+43083560695,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+15441231497,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+95840045121,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+48265305950,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+69647790447,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+69647790447,69,English,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+7666276033,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+70625471958,69,English,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+19327586086,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+40903670632,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+26339819634,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+15128356052,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+15128356052,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+15128356052,69,English,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+1342094845,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+78526036827,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+78526036827,69,English,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+74469316510,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+74469316510,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+7196200277,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+53371263993,69,English,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+88445214513,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+10881234942,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+79309557685,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+79309557685,69,English,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+98439314857,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+98439314857,69,English,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+88839156430,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+88839156430,69,English,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+18141059069,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+18141059069,69,English,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+51165351030,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+66371345389,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+66371345389,69,English,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+74414043856,69,English,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+62417666927,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+62417666927,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+32731408207,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+32731408207,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+10238413731,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+58372772528,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+58372772528,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+93040211183,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+14974963139,69,English,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+15268985425,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+55645095684,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+90824493820,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+90824493820,69,English,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+83279341392,69,English,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+40014482504,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+96356418895,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+96356418895,69,English,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+77692897816,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+5558480815,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+228180081,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+14427845839,69,English,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+28111071166,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+28111071166,69,English,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+73822872135,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+59442187117,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+17247333675,69,English,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+21432821596,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+60901765997,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+2596622371,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+95506113858,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+66864693283,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+11555597788,69,English,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+37704958766,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+37704958766,69,English,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+85426536508,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+93379830806,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+93379830806,69,English,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+42083048288,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+85568051546,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+85568051546,69,English,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+36780838391,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+10761453362,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+98845249257,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+90843435721,69,English,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+33074576252,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+33074576252,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+33074576252,69,English,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+82227450614,69,English,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+60101992393,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+60101992393,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+60101992393,69,English,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+4793159302,69,English,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+65718871412,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+32351930635,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+32351930635,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+38705657024,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+38705657024,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+38705657024,69,English,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+45863779962,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+83458884852,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+83458884852,69,English,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+35798412430,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+35798412430,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+80119794319,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+33282092046,69,English,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+12162013797,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+90640591584,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+92199872159,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+92199872159,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+15648018282,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+15648018282,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+1915048861,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+1915048861,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+2468061102,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+66531961659,69,English,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+11963123337,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+75450737968,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+47076816645,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+41946832847,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+16735171283,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+16735171283,69,English,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+62847359942,69,English,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+829326917,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+65746203505,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+4277072865,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+4277072865,69,English,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+76769342348,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+2808185031,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+2808185031,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+30261487862,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+30261487862,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+86639149769,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+86639149769,69,English,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+16293804995,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+11128442755,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+83739593674,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+29224905402,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+29224905402,69,English,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+54453304065,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+54453304065,69,English,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+75488203494,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+75488203494,69,English,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+31948806626,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+31948806626,69,English,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+89538758217,69,English,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+94872139210,69,English,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+20153525599,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+62376183119,69,English,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+97111521203,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+83751379654,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+42015874186,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+42015874186,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+71037568622,69,English,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+20601295843,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+66462097064,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+4480147404,69,English,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+36226638879,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+36226638879,69,English,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+63386879800,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+76986693273,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+70802799567,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+99637878551,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+16230575240,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+9537673949,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+9537673949,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+59659195303,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+59659195303,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+59659195303,69,English,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+23429007401,69,English,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+28861412371,67,Mathematics,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+28861412371,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+43818162133,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+57804156335,68,Polish,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+78039278666,69,English,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+56205979271,69,English,basic,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+66531961659,75,Mathematics,extended,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+74469316510,75,Mathematics,extended,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+78526036827,72,Biology,extended,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+90824493820,72,Biology,extended,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+14427845839,72,Biology,extended,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+91844283625,72,Biology,extended,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+11128442755,72,Biology,extended,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+20153525599,72,Biology,extended,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
+63227944788,72,Biology,extended,2024,Room_21,big,99010112345,Physical Education,1,NotAnulled
