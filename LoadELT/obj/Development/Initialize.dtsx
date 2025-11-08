@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="4/24/2025 9:15:10 PM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="DESKTOP-S1QF57S"
+  DTS:CreatorName="DESKTOP-S1QF57S\user"
+  DTS:DTSID="{E19D5E73-4C3C-4D84-82FA-18407DE5E58A}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="16.0.5685.0"
+  DTS:LocaleID="2057"
+  DTS:ObjectName="Initialize"
+  DTS:PackageType="5"
+  DTS:VersionBuild="6"
+  DTS:VersionGUID="{C8754673-39D9-461D-9EF0-B4B6CE7F5978}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:ConnectionManagers>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[DESKTOP-S1QF57S\MSSQLSERVER01.DataWarehouses]"
+      DTS:CreationName="OLEDB"
+      DTS:DTSID="{43372571-879F-4E69-9151-C299B501FA6F}"
+      DTS:ObjectName="DESKTOP-S1QF57S\MSSQLSERVER01.DataWarehouses">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectRetryCount="1"
+          DTS:ConnectRetryInterval="5"
+          DTS:ConnectionString="Data Source=DESKTOP-S1QF57S\MSSQLSERVER01;Initial Catalog=DataWarehouses;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-Initialize-{43372571-879F-4E69-9151-C299B501FA6F}DESKTOP-S1QF57S\MSSQLSERVER01.DataWarehouses;Auto Translate=False;" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[ELT_load_Date.sql]"
+      DTS:CreationName="FILE"
+      DTS:DTSID="{E48F6B90-6B64-46AC-8EB1-343E5129A087}"
+      DTS:ObjectName="ELT_load_Date.sql">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectionString="C:\Users\user\Desktop\data warehouses\SQL\ELT SQL\ELT_load_Date.sql" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[ELT_load_Junk.sql]"
+      DTS:CreationName="FILE"
+      DTS:DTSID="{A6E5B688-0549-40A4-8B61-0C97C37E30C9}"
+      DTS:ObjectName="ELT_load_Junk.sql">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectionString="C:\Users\user\Desktop\data warehouses\SQL\ELT SQL\ELT_load_Junk.sql" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[InsertDate.sql]"
+      DTS:CreationName="FILE"
+      DTS:DTSID="{8E762790-D657-433A-9F08-6FB2894BFBCC}"
+      DTS:ObjectName="InsertDate.sql">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectionString="C:\Users\user\Desktop\data warehouses\InsertDate.sql" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[InsertJunk.sql]"
+      DTS:CreationName="FILE"
+      DTS:DTSID="{7F9E0232-B9CB-481B-A323-C6C9C7A7E256}"
+      DTS:ObjectName="InsertJunk.sql">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectionString="C:\Users\user\Desktop\data warehouses\InsertJunk.sql" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+  </DTS:ConnectionManagers>
+  <DTS:Variables />
+  <DTS:Executables>
+    <DTS:Executable
+      DTS:refId="Package\Date"
+      DTS:CreationName="Microsoft.ExecuteSQLTask"
+      DTS:Description="Execute SQL Task"
+      DTS:DTSID="{C9B9A362-6BA6-4A31-950C-AD091B83042A}"
+      DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Date"
+      DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2022; © 2022 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+      DTS:ThreadHint="0">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <SQLTask:SqlTaskData
+          SQLTask:Connection="{43372571-879F-4E69-9151-C299B501FA6F}"
+          SQLTask:SqlStmtSourceType="FileConnection"
+          SQLTask:SqlStatementSource="ELT_load_Date.sql" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+      </DTS:ObjectData>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\Junk"
+      DTS:CreationName="Microsoft.ExecuteSQLTask"
+      DTS:Description="Execute SQL Task"
+      DTS:DTSID="{48EFA413-B0B7-4B59-9DCD-3AFE16F2A695}"
+      DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Junk"
+      DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2022; © 2022 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+      DTS:ThreadHint="1">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <SQLTask:SqlTaskData
+          SQLTask:Connection="{43372571-879F-4E69-9151-C299B501FA6F}"
+          SQLTask:SqlStmtSourceType="FileConnection"
+          SQLTask:SqlStatementSource="ELT_load_Junk.sql" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+      </DTS:ObjectData>
+    </DTS:Executable>
+  </DTS:Executables>
+  <DTS:DesignTimeProperties><![CDATA[<?xml version="1.0"?>
+<!--This CDATA section contains the layout information of the package. The section includes information such as (x,y) coordinates, width, and height.-->
+<!--If you manually edit this section and make a mistake, you can delete it. -->
+<!--The package will still be able to load normally but the previous layout information will be lost and the designer will automatically re-arrange the elements on the design surface.-->
+<Objects
+  Version="8">
+  <!--Each node below will contain properties that do not affect runtime behavior.-->
+  <Package
+    design-time-name="Package">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph">
+        <NodeLayout
+          Size="100.8,41.6"
+          Id="Package\Date"
+          TopLeft="211.428571878647,79.5294116949953" />
+        <NodeLayout
+          Size="100,41.6"
+          Id="Package\Junk"
+          TopLeft="512.857143948881,83.3529411034085" />
+      </GraphLayout>
+    </LayoutInfo>
+  </Package>
+</Objects>]]></DTS:DesignTimeProperties>
+</DTS:Executable>

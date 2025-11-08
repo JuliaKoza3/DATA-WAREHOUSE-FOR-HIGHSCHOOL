@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "DataWarehouse", "DataWarehouse.dwproj", "{9DB1E5F4-0A8C-6141-28D7-C39471D122C4}"
+EndProject
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "LoadELT", "..\LoadELT\LoadELT.dtproj", "{95662CA4-9ADC-2800-939E-4FFD327F8CCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DB1E5F4-0A8C-6141-28D7-C39471D122C4}.Development|Default.ActiveCfg = Development
+		{9DB1E5F4-0A8C-6141-28D7-C39471D122C4}.Development|Default.Build.0 = Development
+		{9DB1E5F4-0A8C-6141-28D7-C39471D122C4}.Development|Default.Deploy.0 = Development
+		{95662CA4-9ADC-2800-939E-4FFD327F8CCE}.Development|Default.ActiveCfg = Development
+		{95662CA4-9ADC-2800-939E-4FFD327F8CCE}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9180FAC2-F598-44CF-AA94-6E6C2C4910B3}
+	EndGlobalSection
+EndGlobal
